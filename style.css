@@ -60,7 +60,7 @@ nav a {
     padding-left: 10px;
     padding-right: 10px;
 }
-
+ 
 nav a:hover{
     color: grey;
 }
@@ -71,12 +71,15 @@ footer p {
     color: rgb(255, 255, 255);
 }
 
-.rotate {
+.rotate{
     position: relative;
     left: 45.5%;
     width: 80px;
     height: 80px;
     text-align: center;
+}
+
+.rotate:hover{
     -webkit-animation: spin 1.5s linear infinite;
     -moz-animation: spin 1.5s linear infinite;
     animation: spin 1.5s linear infinite;
