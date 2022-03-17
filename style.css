@@ -47,10 +47,12 @@ main {
 }
 
 main h1 {
-    font-family: 'Roboto Mono', monospace;
-    font-size: 70px;
-    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 90px;
+    color: azure;
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 main p {
     width: 700px;
