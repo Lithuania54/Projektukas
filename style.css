@@ -3,8 +3,7 @@ html {
 }
 
 body {
-    background-color: #2F3035;
-    background-image: url(images/backgorund-basketball.jpg);
+    background-image: url(images/backgorund-basketball-black.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
@@ -27,7 +26,7 @@ nav {
 }
 
 nav a {
-    color: aliceblue;
+    color: var(--primary-color);
     text-decoration: none;
     font-size: 15px;
     padding-left: 10px;
@@ -49,7 +48,7 @@ main {
 main h1 {
     font-family: 'Roboto Mono', monospace;
     font-size: 90px;
-    color: azure;
+    color: var(--primary-color);
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
@@ -59,18 +58,18 @@ main p {
     margin-left: auto;
     margin-right: auto;
     font-size: 18px;
-    color: white;
+    color: var(--primary-color);
     font-family: Arial, Helvetica, sans-serif;
 }
 
 main a {
-    color: white;
+    color: var(--primary-color);
     text-decoration: none;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 main a:hover {
-    color:grey;
+    color: var(--secondary-color);
 }
 
 footer {
@@ -112,4 +111,20 @@ footer p {
 
 @keyframes spin{
     100%{-webkit-transform: rotate(360deg);}
+}
+
+#icon {
+    width: 18px;
+    cursor: pointer;
+}
+
+:root {
+    --primary-color: #ffffff;
+    --secondary-color: #808080;
+}
+
+.light {
+    --primary-color: #000000;
+    --secondary-color: #000000;
+    background-image: url(images/backgorund-basketball-light.jpg);
 }
