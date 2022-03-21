@@ -125,7 +125,7 @@ footer p {
 }
 
 .light {
-    --primary-color: #000000;
+    --primary-color: #2f2fa2;
     --secondary-color: #000000;
-    background-image: url(images/light1.jpg);
+    background-image: url(images/light4.jpg);
 }
