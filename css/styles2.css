@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+header{
+    background-color: rgb(247, 246, 246);
+}
+.rotate{
+    position: relative;
+    width: 40px;
+    height: 40px;
+}
+
+.rotate:hover{
+    -webkit-animation: spin 1.5s linear infinite;
+    -moz-animation: spin 1.5s linear infinite;
+    animation: spin 1.5s linear infinite;
+}
+
+@-webkit-keyframes spin{
+    100%{-webkit-transform: rotate(360deg);}
+}
+
+@-moz-keyframes spin{
+    100%{-webkit-transform: rotate(360deg);}
+}
+
+@keyframes spin{
+    100%{-webkit-transform: rotate(360deg);}
+}
+
+#icon {
+    width: 18px;
+    cursor: pointer;
+}
