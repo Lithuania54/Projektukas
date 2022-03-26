@@ -13,20 +13,12 @@ header{
 
 .rotate{
     position: relative;
-    width: 41px;
-    height: 41px;
+    width: 42px;
+    height: 42px;
 }
 
 h1{
     text-align: center;
-}
-
-.img{
-    padding-top: 4px;
-}
-
-footer{
-    padding-left: 250px;
 }
 
 .rotate:hover{
@@ -47,7 +39,6 @@ footer{
     100%{-webkit-transform: rotate(360deg);}
 }
 
-#icon {
-    width: 30px;
-    cursor: pointer;
+footer{
+    padding-left: 12%;
 }
