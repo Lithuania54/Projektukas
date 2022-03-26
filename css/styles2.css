@@ -1,13 +1,32 @@
-body{
-    background-color: black;
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
+body{
+    background-color: white;
+    color: black;
+}
+
 header{
     background-color: rgb(247, 246, 246);
 }
+
 .rotate{
     position: relative;
-    width: 40px;
-    height: 40px;
+    width: 41px;
+    height: 41px;
+}
+
+h1{
+    text-align: center;
+}
+
+.img{
+    padding-top: 4px;
+}
+
+footer{
+    padding-left: 250px;
 }
 
 .rotate:hover{
@@ -29,6 +48,6 @@ header{
 }
 
 #icon {
-    width: 18px;
+    width: 30px;
     cursor: pointer;
 }
