@@ -2,6 +2,7 @@ html, body {
     max-width: 100%;
     overflow-x: hidden;
 }
+
 body{
     background-color: white;
     color: black;
@@ -41,4 +42,5 @@ h1{
 
 footer{
     padding-left: 12%;
+    text-align: justify;
 }
