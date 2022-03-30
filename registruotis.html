@@ -13,7 +13,7 @@
 <body>
 
     <main>
-      <div class="position-absolute top-50 start-50 translate-middle">
+        <div class="position-absolute top-50 start-50 translate-middle">
         <div class="card-body" style="width: 25rem;">
             <form class="px-4 py-3">
               <div class="mb-3">
@@ -21,7 +21,15 @@
                 <input type="email" class="form-control" id="exampleDropdownFormEmail1" placeholder="Slapyvardis">
               </div>
               <div class="mb-3">
+                <label for="exampleDropdownFormPassword1" class="form-label">El. paštas</label>
+                <input type="password" class="form-control" id="exampleDropdownFormPassword1" placeholder="petras.petriukas@gmail.com">
+              </div>
+              <div class="mb-3">
                 <label for="exampleDropdownFormPassword1" class="form-label">Slaptažodis</label>
+                <input type="password" class="form-control" id="exampleDropdownFormPassword1" placeholder="Slaptažodis">
+              </div>
+              <div class="mb-3">
+                <label for="exampleDropdownFormPassword1" class="form-label">Pakartokite slaptažodį</label>
                 <input type="password" class="form-control" id="exampleDropdownFormPassword1" placeholder="Slaptažodis">
               </div>
               <div class="mb-3">
@@ -32,15 +40,13 @@
                   </label>
                 </div>
               </div>
-              <button type="submit" class="btn btn-dark">Prisijungti</button>
-              <a class="btn btn-dark" href="index.html" role="button">Į pradinį</a>
-            </form>
+              <button type="submit" class="btn btn-dark">Registruotis</button>
+            </div>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="registruotis.html">Registracija</a>
-            <a class="dropdown-item" href="#">Pamiršau salptažodį</a>
+            <a class="dropdown-item" href="prisijungti.html">Prisijungti</a>
             <a class="dropdown-item" href="index.html">Į pradinį</a>
           </div>
-      </div>
+            </form>
     </main>
 
     <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
