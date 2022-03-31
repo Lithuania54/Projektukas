@@ -47,12 +47,17 @@ session_start();
 
 
 <!DOCTYPE html>
-<html>
-<head>
-	<title>Login</title>
-</head>
-<body>
+<html lang="en">
 
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LKL žaidėjų statistika</title>
+  <meta name="description" content="kazka reiks sugalvot">
+  <link rel="stylesheet" href="bootstrap-5.1.3-dist/css/bootstrap.css">
+  <link rel="stylesheet" href="css/stylesprisijungti.css">
+</head>
 	<style type="text/css">
 	
 	#text{
@@ -92,9 +97,13 @@ session_start();
 			<input id="text" type="password" name="password"><br><br>
 
 			<input id="button" type="submit" value="Login"><br><br>
+			<<a class="dropdown-item" href="registruotis.html">Registracija</a>
 
 			<a href="signup.php">Click to Signup</a><br><br>
 		</form>
 	</div>
+	<script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
+  <script src="bootstrap-5.1.3-dist/js/bootstrap.bundle.js"></script>
+	
 </body>
 </html>

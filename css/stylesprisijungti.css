@@ -10,22 +10,16 @@ html, body{
     background-repeat: no-repeat;
 } */
 
-header{
-    margin-top: 10%;
-    margin-bottom: 10%;
-    text-align: center;
+.rotate{
+    position: relative;
+    width: 120px;
+    height: 120px;
 }
 
 .rotate{
-    position: relative;
-    width: 100px;
-    height: 100px;
-}
-
-.rotate:hover{
-    -webkit-animation: spin 1.5s linear infinite;
-    -moz-animation: spin 1.5s linear infinite;
-    animation: spin 1.5s linear infinite;
+    -webkit-animation: spin 2.5s linear infinite;
+    -moz-animation: spin 2.5s linear infinite;
+    animation: spin 2.5s linear infinite;
 }
 
 @-webkit-keyframes spin{
