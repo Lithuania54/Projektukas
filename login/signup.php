@@ -7,14 +7,13 @@ session_start();
 
 	if($_SERVER['REQUEST_METHOD'] == "POST")
 	{
-		//something was posted
 		$user_name = $_POST['user_name'];
 		$password = $_POST['password'];
 
 		if(!empty($user_name) && !empty($password) && !is_numeric($user_name))
 		{
 
-			//save to database
+			//issaugoja database
 			$user_id = random_num(20);
 			$query = "insert into vartotojai (user_id,user_name,password) values ('$user_id','$user_name','$password')";
 
@@ -33,7 +32,7 @@ session_start();
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Signup</title>
+	<title>Registracija</title>
 </head>
 <body>
 
@@ -49,7 +48,6 @@ session_start();
 	}
 
 	#button{
-
 		padding: 10px;
 		width: 100px;
 		color: white;
@@ -58,26 +56,33 @@ session_start();
 	}
 
 	#box{
-
-		background-color: grey;
+		background-color: black;
 		margin: auto;
 		width: 300px;
 		padding: 20px;
 	}
 
+	#aaa{
+		padding-top: 12%;
+	}
+
 	</style>
+	<header id="aaa"> 
+
+	</header>
 
 	<div id="box">
 		
 		<form method="post">
-			<div style="font-size: 20px;margin: 10px;color: white;">Signup</div>
+			<div style="font-size: 20px;margin: 10px;color: white;">Registracija</div>
 
 			<input id="text" type="text" name="user_name"><br><br>
 			<input id="text" type="password" name="password"><br><br>
 
-			<input id="button" type="submit" value="Signup"><br><br>
+			<input id="button" type="submit" value="Registruotis"><br><br>
 
-			<a href="login.php">Click to Login</a><br><br>
+			<a href="login.php">Prisijungti</a><br><br>
+			<a href="PRADINIS.html">Į pradinį</a><br><br>
 		</form>
 	</div>
 </body>
