@@ -8,14 +8,14 @@ session_start();
 
 	if($_SERVER['REQUEST_METHOD'] == "POST")
 	{
-		//something was posted
+		//pagrindinis
 		$user_name = $_POST['user_name'];
 		$password = $_POST['password'];
 
 		if(!empty($user_name) && !empty($password) && !is_numeric($user_name))
 		{
 
-			//read from database
+			//databaze
 			$query = "select * from vartotojai where user_name = '$user_name' limit 1";
 			$result = mysqli_query($con, $query);
 
@@ -80,13 +80,50 @@ session_start();
 
 	#box{
 
-		background-color: grey;
+		background-color: black;
 		margin: auto;
 		width: 300px;
 		padding: 20px;
 	}
 
 	</style>
+
+<main>
+    <div style="padding: 3.5vw;">
+      <div class="text-center">
+        <img src="images/kamuolys.png" class="img-fluid rotate" alt="Pradinis logo">
+      </div>
+    </div>
+    <div class="position-absolute top-50 start-50 translate-middle">
+      <div class="card">
+        <div class="card-body" style="width: 25rem;">
+          <form class="px-4 py-3">
+            <div class="mb-3">
+              <label for="exampleDropdownFormEmail1" class="form-label">Slapyvardis</label>
+              <input type="email" class="form-control" id="exampleDropdownFormEmail1" placeholder="Slapyvardis">
+            </div>
+            <div class="mb-3">
+              <label for="exampleDropdownFormPassword1" class="form-label">Slaptažodis</label>
+              <input type="password" class="form-control" id="exampleDropdownFormPassword1" placeholder="Slaptažodis">
+            </div>
+            <div class="mb-3">
+              <div class="form-check">
+                <input type="checkbox" class="form-check-input" id="dropdownCheck">
+                <label class="form-check-label" for="dropdownCheck">
+                  Prisiminti
+                </label>
+              </div>
+            </div>
+            <button type="submit" class="btn btn-dark">Prisijungti</button>
+          </form>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="REGISTRACIJA.html">Registracija</a>
+          <a class="dropdown-item" href="#">Pamiršau salptažodį</a>
+          <a class="dropdown-item" href="PRADINIS.html">Į pradinį</a>
+        </div>
+      </div>
+    </div>
+  </main>
 
 	<div id="box">
 		
@@ -97,13 +134,13 @@ session_start();
 			<input id="text" type="password" name="password"><br><br>
 
 			<input id="button" type="submit" value="Login"><br><br>
-			<<a class="dropdown-item" href="registruotis.html">Registracija</a>
 
+			<a href="signup.php">Registracija</a><br><br>
 			<a href="signup.php">Click to Signup</a><br><br>
 		</form>
 	</div>
 	<script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
-  <script src="bootstrap-5.1.3-dist/js/bootstrap.bundle.js"></script>
+   <script src="bootstrap-5.1.3-dist/js/bootstrap.bundle.js"></script>
 	
 </body>
 </html>
