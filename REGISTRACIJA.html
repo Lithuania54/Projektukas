@@ -22,23 +22,14 @@
     <div class="position-absolute top-50 start-50 translate-middle">
       <div class="card">
         <div class="card-body" style="width: 25rem;">
-          <form class="px-4 py-3">
+          <form class="px-4 py-3" method="post" action="signup.php" >
             <div class="mb-3">
               <label for="exampleDropdownFormEmail1" class="form-label">Slapyvardis</label>
-              <input type="email" class="form-control" id="exampleDropdownFormEmail1" placeholder="Slapyvardis">
-            </div>
-            <div class="mb-3">
-              <label for="exampleDropdownFormPassword1" class="form-label">El. paštas</label>
-              <input type="password" class="form-control" id="exampleDropdownFormPassword1"
-                placeholder="petras.petriukas@gmail.com">
+              <input type="text" name="user_name" class="form-control" id="exampleDropdownFormEmail1" placeholder="Slapyvardis">
             </div>
             <div class="mb-3">
               <label for="exampleDropdownFormPassword1" class="form-label">Slaptažodis</label>
-              <input type="password" class="form-control" id="exampleDropdownFormPassword1" placeholder="Slaptažodis">
-            </div>
-            <div class="mb-3">
-              <label for="exampleDropdownFormPassword1" class="form-label">Pakartokite slaptažodį</label>
-              <input type="password" class="form-control" id="exampleDropdownFormPassword1" placeholder="Slaptažodis">
+              <input type="password" name="password" class="form-control" id="exampleDropdownFormPassword1" placeholder="Slaptažodis">
             </div>
             <div class="mb-3">
               <div class="form-check">
@@ -48,7 +39,7 @@
                 </label>
               </div>
             </div>
-            <button type="submit" class="btn btn-dark">Registruotis</button>
+            <button type="submit" value="Registruotis" class="btn btn-dark">Registruotis</button>
           </form>
           <div class="dropdown-divider"></div>
           <a class="dropdown-item" href="LOGIN.html">Prisijungti</a>
