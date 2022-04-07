@@ -61,3 +61,12 @@ font-size: 120%;
     margin-left:auto; 
     margin-right:auto;
 }
+#pozicija{
+    left: 12px;
+    padding: 1rem;
+    margin-bottom: 10rem; 
+}
+.col{
+    padding: 1rem;
+    margin-bottom: 10rem;
+}
