@@ -64,9 +64,11 @@ font-size: 120%;
 #pozicija{
     left: 12px;
     padding: 1rem;
-    margin-bottom: 10rem; 
+    margin-bottom: 5rem;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 .col{
-    padding: 1rem;
-    margin-bottom: 10rem;
+    padding: 12px;
+    margin-bottom: 25px;
 }
