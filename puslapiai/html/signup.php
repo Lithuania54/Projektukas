@@ -19,7 +19,7 @@ session_start();
 
 			mysqli_query($con, $query);
 
-			header("Location: PRADINIS.html");
+			header("Location: PRADINISS.html");
 			die;
 		}else
 		{

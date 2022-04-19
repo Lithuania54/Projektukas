@@ -16,7 +16,7 @@ session_start();
 <body>
 
 	<a href="logout.php">Atsijungti</a>
-	<a href="PRADINIS.html">Į pradinį</a>
+	<a href="PRADINISS.html">Į pradinį</a>
 	<h1>Prisijungei!</h1>
 
 	<br>
