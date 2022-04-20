@@ -9,7 +9,7 @@ import json
 option = webdriver.ChromeOptions()
 option.add_argument("--muted")
 
-browser = webdriver.Chrome(options=option, executable_path="C:\\xampp\\htdocs\\Projektukas\\scrapinam\\chromedriver.exe")  
+browser = webdriver.Chrome(options=option, executable_path="C:\\Users\\Rytis\\Projektukas\\scrapinam\\chromedriver.exe")  
 browser.get("https://lkl.lt/statistika")
 
 arr = []
