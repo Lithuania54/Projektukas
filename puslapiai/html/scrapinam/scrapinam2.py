@@ -14,7 +14,7 @@ import json
 option = webdriver.ChromeOptions()
 option.add_argument("--muted")
 
-browser = webdriver.Chrome(options=option, executable_path="C:\\xampp\\htdocs\\Projektukas\\puslapiai\\html\\scrapinam\\chromedriver.exe")  
+browser = webdriver.Chrome(options=option, executable_path="C:\\Users\\Rytis\\Projektukas\\puslapiai\\html\\scrapinam\\chromedriver.exe")  
 browser.get("https://lkl.lt/statistika")
 
 search = browser.find_element(By.XPATH, "//*[@id=\"players-stats-widget\"]/div/div[1]/div[1]/div[1]/div/div[1]/select")
