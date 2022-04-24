@@ -13,8 +13,8 @@ option.add_argument("--muted")
 browser = webdriver.Chrome(options=option, executable_path="C:\\xampp\\htdocs\\Projektukas\\puslapiai\\html\\scrapinam\\chromedriver.exe")  
 arr = []
 
-for index in range(1, 6):
-    browser.get("https://lkl.lt/get-players-stats?category=assists&tab=avg&season_id=30527&additional_filters=0&team_id=-&month=&search_text=&page="+str(index))
+for index in range(1, 2):
+    browser.get("https://lkl.lt/get-players-stats?category=efficiency&tab=avg&season_id=30527&additional_filters=0&team_id=-&month=&search_text=&page="+str(index))
 
     WebDriverWait(browser, 10).until(EC.visibility_of_element_located((By.XPATH,"/html/body/div/div[2]/div[1]/table/tbody")))
 
@@ -29,6 +29,6 @@ for index in range(1, 6):
             i +=1
         arr.append(temparr)
  
-file_json = open("puslapiai\\html\\scrapinam\\zaidejai4.json", 'w+', encoding='utf-8')
+file_json = open("puslapiai\\html\\scrapinam\\zaidejai5.json", 'w+', encoding='utf-8')
 
 json.dump(arr, file_json, indent = 6, ensure_ascii=False)
