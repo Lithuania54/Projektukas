@@ -10,12 +10,8 @@ import json
 option = webdriver.ChromeOptions()
 option.add_argument("--muted")
 
-browser = webdriver.Chrome(options=option, executable_path="C:\\Users\\Rytis\\Projektukas\\puslapiai\\html\\scrapinam\\chromedriver.exe")  
+browser = webdriver.Chrome(options=option, executable_path="C:\\xampp\\htdocs\\Projektukas\\puslapiai\\html\\scrapinam\\chromedriver.exe")  
 browser.get("https://lkl.lt/statistika")
-
-
-
-
 
 mygtukas = browser.find_element(By.XPATH, "/html/body/div[1]/main/div[1]/div/div[2]/div[2]/div/div/div[1]/div[1]/div[1]/div/div[1]/select/option[2]")
 mygtukas.click()

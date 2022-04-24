@@ -10,7 +10,7 @@ import json
 option = webdriver.ChromeOptions()
 option.add_argument("--muted")
 
-browser = webdriver.Chrome(options=option, executable_path="C:\\Users\\Rytis\\Projektukas\\puslapiai\\html\\scrapinam\\chromedriver.exe")  
+browser = webdriver.Chrome(options=option, executable_path="C:\\xampp\\Projektukas\\puslapiai\\html\\scrapinam\\chromedriver.exe")  
 arr = []
 
 for index in range(1, 6):
