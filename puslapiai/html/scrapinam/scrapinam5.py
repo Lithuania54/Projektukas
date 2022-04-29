@@ -29,6 +29,6 @@ for index in range(1, 2):
             i +=1
         arr.append(temparr)
  
-file_json = open("puslapiai\\html\\scrapinam\\zaidejai5.json", 'w+', encoding='utf-8')
+file_json = open("puslapiai\\html\\products.json", 'w+', encoding='utf-8')
 
 json.dump(arr, file_json, indent = 6, ensure_ascii=False)
