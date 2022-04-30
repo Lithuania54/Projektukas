@@ -42,6 +42,6 @@ for url in urlarr:
         print("err")
 
 print(arr)
-file_json = open("puslapiai\\html\\scrapinam\\zaidejai1.json", 'w+', encoding='utf-8')
+file_json = open("puslapiai\\html\\scrapinam\\TASKAI.json", 'w+', encoding='utf-8')
 
 json.dump(arr, file_json, indent = 6, ensure_ascii=False)

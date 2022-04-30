@@ -37,7 +37,7 @@ session_start();
                           STATISTIKA
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                          <li><a class="dropdown-item" href="PERDAVIMAI.html">Perdavimai</a></li>
+                          <li><a class="dropdown-item" href="PERDAVIMAI2.php">Perdavimai</a></li>
                           <li><a class="dropdown-item" href="TASKAI.html">Pelnomi taškai</a></li>
                           <li><a class="dropdown-item" href="KAMUOLIAI.html">Atkovoti kamuoliai</a></li>
                           <li><hr class="dropdown-divider"></li>
@@ -127,7 +127,6 @@ session_start();
 
     <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
     <script src="bootstrap-5.1.3-dist/js/bootstrap.js"></script>
-	<script src="bootstrap-5.1.3-dist/js/bootstrap.bundle.min.js"></script>
     
 </body>
 </html>

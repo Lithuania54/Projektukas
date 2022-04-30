@@ -19,7 +19,7 @@ session_start();
 
 			mysqli_query($con, $query);
 
-			header("Location: PRADINISS.html");
+			header("Location: LOGIN.html");
 			die;
 		}else
 		{

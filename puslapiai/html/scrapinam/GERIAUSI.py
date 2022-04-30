@@ -1,0 +1,47 @@
+import selenium
+from selenium import webdriver 
+from selenium.webdriver.common.by import By 
+from selenium.webdriver.support.ui import WebDriverWait 
+from selenium.webdriver.support import expected_conditions as EC 
+from selenium.common.exceptions import TimeoutException
+import json
+
+option = webdriver.ChromeOptions()
+option.add_argument("--muted")
+
+browser = webdriver.Chrome(options=option, executable_path="C:\\xampp\\htdocs\\Projektukas\\puslapiai\\html\\scrapinam\\chromedriver.exe")   
+arr = []
+urlarr = []
+imgarr = []
+
+for index in range(1, 2):
+    browser.get("https://lkl.lt/get-players-stats?category=efficiency&tab=avg&season_id=30527&additional_filters=0&team_id=-&month=&search_text=&page="+str(index))
+
+    WebDriverWait(browser, 10).until(EC.visibility_of_element_located((By.XPATH,"/html/body/div/div[2]/div[1]/table/tbody")))
+
+    table = browser.find_element(By.XPATH, "/html/body/div/div[2]/div[1]/table/tbody")
+
+    for row in table.find_elements(By.XPATH,".//tr"):
+        temparr = {}
+        pavadinimai = ['Rankas', 'Zaidejas', "Klubas",  "Rungtynes", "Suma", "Vidurkis"]
+        i = 0 
+        for cell in row.find_elements(By.XPATH,".//td"): 
+            if pavadinimai[i] == 'Zaidejas':
+                url = cell.find_element(By.XPATH, "./a").get_attribute("href")
+                browser.execute_script("window.open('');")
+                browser.switch_to.window(browser.window_handles[1])
+                browser.get(url)
+                WebDriverWait(browser, 10).until(EC.visibility_of_element_located((By.XPATH,"/html/body/div[1]/main/div[1]/div/div[1]/div[1]/div[1]/img")))
+                img = browser.find_element(By.XPATH, "/html/body/div[1]/main/div[1]/div/div[1]/div[1]/div[1]/img")
+                temparr["Nuotrauka"] = img.get_attribute("src")
+                browser.close()
+                browser.switch_to.window(browser.window_handles[0])
+
+            temparr[pavadinimai[i]]=cell.text
+            i +=1
+        arr.append(temparr)
+ 
+print(imgarr)
+file_json = open("puslapiai\\html\\nuotrauka.json", 'w+', encoding='utf-8')
+
+json.dump(arr, file_json, indent = 6, ensure_ascii=False)

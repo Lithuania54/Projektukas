@@ -1,0 +1,802 @@
+[
+      {
+            "Rankas": "1",
+            "Zaidejas": "Juan Palacios",
+            "Klubas": "CBet",
+            "Rungtynes": "20",
+            "Suma": "160",
+            "Vidurkis": "8.00"
+      },
+      {
+            "Rankas": "2",
+            "Zaidejas": "Amar Sylla",
+            "Klubas": "Nevėžis–Optibet",
+            "Rungtynes": "29",
+            "Suma": "221",
+            "Vidurkis": "7.62"
+      },
+      {
+            "Rankas": "3",
+            "Zaidejas": "Simas Jarumbauskas",
+            "Klubas": "Pieno žvaigždės",
+            "Rungtynes": "27",
+            "Suma": "184",
+            "Vidurkis": "6.81"
+      },
+      {
+            "Rankas": "4",
+            "Zaidejas": "Benas Griciūnas",
+            "Klubas": "Neptūnas",
+            "Rungtynes": "29",
+            "Suma": "196",
+            "Vidurkis": "6.76"
+      },
+      {
+            "Rankas": "5",
+            "Zaidejas": "Gytis Radzevičius",
+            "Klubas": "Rytas",
+            "Rungtynes": "29",
+            "Suma": "192",
+            "Vidurkis": "6.62"
+      },
+      {
+            "Rankas": "6",
+            "Zaidejas": "Giedrius Staniulis",
+            "Klubas": "Šiauliai-7bet",
+            "Rungtynes": "27",
+            "Suma": "174",
+            "Vidurkis": "6.44"
+      },
+      {
+            "Rankas": "7",
+            "Zaidejas": "Rokas Gustys",
+            "Klubas": "Uniclub Casino - Juventus",
+            "Rungtynes": "29",
+            "Suma": "185",
+            "Vidurkis": "6.38"
+      },
+      {
+            "Rankas": "8",
+            "Zaidejas": "Rapolas Ivanauskas",
+            "Klubas": "Labas Gas",
+            "Rungtynes": "28",
+            "Suma": "178",
+            "Vidurkis": "6.36"
+      },
+      {
+            "Rankas": "9",
+            "Zaidejas": "Ivan Buva",
+            "Klubas": "Rytas",
+            "Rungtynes": "24",
+            "Suma": "148",
+            "Vidurkis": "6.17"
+      },
+      {
+            "Rankas": "10",
+            "Zaidejas": "Tyler Cavanaugh",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "25",
+            "Suma": "141",
+            "Vidurkis": "5.64"
+      },
+      {
+            "Rankas": "11",
+            "Zaidejas": "Adam Lapeta",
+            "Klubas": "Dzūkija",
+            "Rungtynes": "29",
+            "Suma": "161",
+            "Vidurkis": "5.55"
+      },
+      {
+            "Rankas": "12",
+            "Zaidejas": "Vitalijus Kozys",
+            "Klubas": "CBet",
+            "Rungtynes": "28",
+            "Suma": "154",
+            "Vidurkis": "5.50"
+      },
+      {
+            "Rankas": "13",
+            "Zaidejas": "Aleksandar Aranitovič",
+            "Klubas": "Dzūkija",
+            "Rungtynes": "28",
+            "Suma": "145",
+            "Vidurkis": "5.18"
+      },
+      {
+            "Rankas": "14",
+            "Zaidejas": "Joshua Nebo",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "28",
+            "Suma": "143",
+            "Vidurkis": "5.11"
+      },
+      {
+            "Rankas": "15",
+            "Zaidejas": "Deividas Gailius",
+            "Klubas": "Neptūnas",
+            "Rungtynes": "26",
+            "Suma": "132",
+            "Vidurkis": "5.08"
+      },
+      {
+            "Rankas": "16",
+            "Zaidejas": "Juwan Josiah Durham",
+            "Klubas": "Labas Gas",
+            "Rungtynes": "24",
+            "Suma": "121",
+            "Vidurkis": "5.04"
+      },
+      {
+            "Rankas": "17",
+            "Zaidejas": "Vaidas Čepukaitis",
+            "Klubas": "Dzūkija",
+            "Rungtynes": "28",
+            "Suma": "136",
+            "Vidurkis": "4.86"
+      },
+      {
+            "Rankas": "18",
+            "Zaidejas": "Rihards Kuksiks",
+            "Klubas": "Nevėžis–Optibet",
+            "Rungtynes": "25",
+            "Suma": "121",
+            "Vidurkis": "4.84"
+      },
+      {
+            "Rankas": "19",
+            "Zaidejas": "Arnas Butkevičius",
+            "Klubas": "Rytas",
+            "Rungtynes": "28",
+            "Suma": "134",
+            "Vidurkis": "4.79"
+      },
+      {
+            "Rankas": "20",
+            "Zaidejas": "Dorde Gagič",
+            "Klubas": "Lietkabelis",
+            "Rungtynes": "30",
+            "Suma": "143",
+            "Vidurkis": "4.77"
+      },
+      {
+            "Rankas": "21",
+            "Zaidejas": "Edgaras Ulanovas",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "26",
+            "Suma": "123",
+            "Vidurkis": "4.73"
+      },
+      {
+            "Rankas": "22",
+            "Zaidejas": "Karolis Guščikas",
+            "Klubas": "Pieno žvaigždės",
+            "Rungtynes": "29",
+            "Suma": "136",
+            "Vidurkis": "4.69"
+      },
+      {
+            "Rankas": "23",
+            "Zaidejas": "Kahlil Thomas",
+            "Klubas": "CBet",
+            "Rungtynes": "25",
+            "Suma": "117",
+            "Vidurkis": "4.68"
+      },
+      {
+            "Rankas": "24",
+            "Zaidejas": "Isaiah Armwood",
+            "Klubas": "Šiauliai-7bet",
+            "Rungtynes": "28",
+            "Suma": "130",
+            "Vidurkis": "4.64"
+      },
+      {
+            "Rankas": "25",
+            "Zaidejas": "Vytenis Lipkevičius",
+            "Klubas": "Lietkabelis",
+            "Rungtynes": "25",
+            "Suma": "116",
+            "Vidurkis": "4.64"
+      },
+      {
+            "Rankas": "26",
+            "Zaidejas": "Paulius Jankūnas",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "16",
+            "Suma": "74",
+            "Vidurkis": "4.63"
+      },
+      {
+            "Rankas": "27",
+            "Zaidejas": "Paulius Danusevičius",
+            "Klubas": "Šiauliai-7bet",
+            "Rungtynes": "26",
+            "Suma": "118",
+            "Vidurkis": "4.54"
+      },
+      {
+            "Rankas": "28",
+            "Zaidejas": "Tomas Lekūnas",
+            "Klubas": "Uniclub Casino - Juventus",
+            "Rungtynes": "28",
+            "Suma": "127",
+            "Vidurkis": "4.54"
+      },
+      {
+            "Rankas": "29",
+            "Zaidejas": "Justas Furmanavičius",
+            "Klubas": "Dzūkija",
+            "Rungtynes": "30",
+            "Suma": "136",
+            "Vidurkis": "4.53"
+      },
+      {
+            "Rankas": "30",
+            "Zaidejas": "Edgaras Želionis",
+            "Klubas": "Neptūnas",
+            "Rungtynes": "29",
+            "Suma": "128",
+            "Vidurkis": "4.41"
+      },
+      {
+            "Rankas": "31",
+            "Zaidejas": "Žygimantas Skučas",
+            "Klubas": "Pieno žvaigždės",
+            "Rungtynes": "30",
+            "Suma": "132",
+            "Vidurkis": "4.40"
+      },
+      {
+            "Rankas": "32",
+            "Zaidejas": "Arnas Beručka",
+            "Klubas": "Pieno žvaigždės",
+            "Rungtynes": "29",
+            "Suma": "125",
+            "Vidurkis": "4.31"
+      },
+      {
+            "Rankas": "33",
+            "Zaidejas": "Donatas Sabeckis",
+            "Klubas": "Šiauliai-7bet",
+            "Rungtynes": "29",
+            "Suma": "125",
+            "Vidurkis": "4.31"
+      },
+      {
+            "Rankas": "34",
+            "Zaidejas": "Mindaugas Lukauskis",
+            "Klubas": "Dzūkija",
+            "Rungtynes": "30",
+            "Suma": "128",
+            "Vidurkis": "4.27"
+      },
+      {
+            "Rankas": "35",
+            "Zaidejas": "Laimonas Kisielius",
+            "Klubas": "CBet",
+            "Rungtynes": "23",
+            "Suma": "98",
+            "Vidurkis": "4.26"
+      },
+      {
+            "Rankas": "36",
+            "Zaidejas": "Paulius Petrilevičius",
+            "Klubas": "Pieno žvaigždės",
+            "Rungtynes": "20",
+            "Suma": "85",
+            "Vidurkis": "4.25"
+      },
+      {
+            "Rankas": "37",
+            "Zaidejas": "Panagiotis Kalaitzakis",
+            "Klubas": "Lietkabelis",
+            "Rungtynes": "28",
+            "Suma": "118",
+            "Vidurkis": "4.21"
+      },
+      {
+            "Rankas": "38",
+            "Zaidejas": "Sven Smajlagič",
+            "Klubas": "Nevėžis–Optibet",
+            "Rungtynes": "19",
+            "Suma": "80",
+            "Vidurkis": "4.21"
+      },
+      {
+            "Rankas": "39",
+            "Zaidejas": "Matas Jogėla",
+            "Klubas": "Neptūnas",
+            "Rungtynes": "27",
+            "Suma": "112",
+            "Vidurkis": "4.15"
+      },
+      {
+            "Rankas": "40",
+            "Zaidejas": "Gabrielius Maldūnas",
+            "Klubas": "Lietkabelis",
+            "Rungtynes": "30",
+            "Suma": "118",
+            "Vidurkis": "3.93"
+      },
+      {
+            "Rankas": "41",
+            "Zaidejas": "Edvinas Šeškus",
+            "Klubas": "CBet",
+            "Rungtynes": "28",
+            "Suma": "108",
+            "Vidurkis": "3.86"
+      },
+      {
+            "Rankas": "42",
+            "Zaidejas": "Artūras Jomantas",
+            "Klubas": "Dzūkija",
+            "Rungtynes": "22",
+            "Suma": "84",
+            "Vidurkis": "3.82"
+      },
+      {
+            "Rankas": "43",
+            "Zaidejas": "Gediminas Orelik",
+            "Klubas": "Lietkabelis",
+            "Rungtynes": "25",
+            "Suma": "93",
+            "Vidurkis": "3.72"
+      },
+      {
+            "Rankas": "44",
+            "Zaidejas": "Tanner Leissner",
+            "Klubas": "Rytas",
+            "Rungtynes": "23",
+            "Suma": "85",
+            "Vidurkis": "3.70"
+      },
+      {
+            "Rankas": "45",
+            "Zaidejas": "Jovan Kljajič",
+            "Klubas": "Labas Gas",
+            "Rungtynes": "27",
+            "Suma": "96",
+            "Vidurkis": "3.56"
+      },
+      {
+            "Rankas": "46",
+            "Zaidejas": "Marek Blaževič",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "26",
+            "Suma": "92",
+            "Vidurkis": "3.54"
+      },
+      {
+            "Rankas": "47",
+            "Zaidejas": "Žygimantas Janavičius",
+            "Klubas": "Neptūnas",
+            "Rungtynes": "29",
+            "Suma": "101",
+            "Vidurkis": "3.48"
+      },
+      {
+            "Rankas": "48",
+            "Zaidejas": "Martynas Varnas",
+            "Klubas": "Šiauliai-7bet",
+            "Rungtynes": "30",
+            "Suma": "104",
+            "Vidurkis": "3.47"
+      },
+      {
+            "Rankas": "49",
+            "Zaidejas": "Markell Johnson",
+            "Klubas": "Pieno žvaigždės",
+            "Rungtynes": "23",
+            "Suma": "79",
+            "Vidurkis": "3.43"
+      },
+      {
+            "Rankas": "50",
+            "Zaidejas": "Julius Jucikas",
+            "Klubas": "Neptūnas",
+            "Rungtynes": "30",
+            "Suma": "102",
+            "Vidurkis": "3.40"
+      },
+      {
+            "Rankas": "51",
+            "Zaidejas": "Ignas Vaitkus",
+            "Klubas": "Uniclub Casino - Juventus",
+            "Rungtynes": "25",
+            "Suma": "85",
+            "Vidurkis": "3.40"
+      },
+      {
+            "Rankas": "52",
+            "Zaidejas": "Jonathan Elmore",
+            "Klubas": "Šiauliai-7bet",
+            "Rungtynes": "25",
+            "Suma": "85",
+            "Vidurkis": "3.40"
+      },
+      {
+            "Rankas": "53",
+            "Zaidejas": "Vytautas Šulskis",
+            "Klubas": "Uniclub Casino - Juventus",
+            "Rungtynes": "28",
+            "Suma": "95",
+            "Vidurkis": "3.39"
+      },
+      {
+            "Rankas": "54",
+            "Zaidejas": "Justinas Jogminas",
+            "Klubas": "Labas Gas",
+            "Rungtynes": "27",
+            "Suma": "90",
+            "Vidurkis": "3.33"
+      },
+      {
+            "Rankas": "55",
+            "Zaidejas": "Giedrius Stankevičius",
+            "Klubas": "Labas Gas",
+            "Rungtynes": "28",
+            "Suma": "93",
+            "Vidurkis": "3.32"
+      },
+      {
+            "Rankas": "56",
+            "Zaidejas": "Niels Giffey",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "27",
+            "Suma": "87",
+            "Vidurkis": "3.22"
+      },
+      {
+            "Rankas": "57",
+            "Zaidejas": "Paulius Murauskas",
+            "Klubas": "Nevėžis–Optibet",
+            "Rungtynes": "25",
+            "Suma": "79",
+            "Vidurkis": "3.16"
+      },
+      {
+            "Rankas": "58",
+            "Zaidejas": "Patrick Miller",
+            "Klubas": "Uniclub Casino - Juventus",
+            "Rungtynes": "26",
+            "Suma": "82",
+            "Vidurkis": "3.15"
+      },
+      {
+            "Rankas": "59",
+            "Zaidejas": "Kaspars Berzins",
+            "Klubas": "Lietkabelis",
+            "Rungtynes": "29",
+            "Suma": "91",
+            "Vidurkis": "3.14"
+      },
+      {
+            "Rankas": "60",
+            "Zaidejas": "Evaldas Šaulys",
+            "Klubas": "CBet",
+            "Rungtynes": "25",
+            "Suma": "75",
+            "Vidurkis": "3.00"
+      },
+      {
+            "Rankas": "61",
+            "Zaidejas": "Ivan Perasovič",
+            "Klubas": "Labas Gas",
+            "Rungtynes": "21",
+            "Suma": "63",
+            "Vidurkis": "3.00"
+      },
+      {
+            "Rankas": "62",
+            "Zaidejas": "Margiris Normantas",
+            "Klubas": "Rytas",
+            "Rungtynes": "28",
+            "Suma": "77",
+            "Vidurkis": "2.75"
+      },
+      {
+            "Rankas": "63",
+            "Zaidejas": "Nemanja Bezbradica",
+            "Klubas": "Šiauliai-7bet",
+            "Rungtynes": "19",
+            "Suma": "52",
+            "Vidurkis": "2.74"
+      },
+      {
+            "Rankas": "64",
+            "Zaidejas": "Kenneth Smith",
+            "Klubas": "Rytas",
+            "Rungtynes": "27",
+            "Suma": "71",
+            "Vidurkis": "2.63"
+      },
+      {
+            "Rankas": "65",
+            "Zaidejas": "Nojus Mineikis",
+            "Klubas": "Neptūnas",
+            "Rungtynes": "29",
+            "Suma": "76",
+            "Vidurkis": "2.62"
+      },
+      {
+            "Rankas": "66",
+            "Zaidejas": "Eimantas Stankevičius",
+            "Klubas": "Šiauliai-7bet",
+            "Rungtynes": "29",
+            "Suma": "75",
+            "Vidurkis": "2.59"
+      },
+      {
+            "Rankas": "67",
+            "Zaidejas": "Gintautas Matulis",
+            "Klubas": "Uniclub Casino - Juventus",
+            "Rungtynes": "21",
+            "Suma": "53",
+            "Vidurkis": "2.52"
+      },
+      {
+            "Rankas": "68",
+            "Zaidejas": "Emmanuel Lecomte",
+            "Klubas": "CBet",
+            "Rungtynes": "23",
+            "Suma": "58",
+            "Vidurkis": "2.52"
+      },
+      {
+            "Rankas": "69",
+            "Zaidejas": "Kristupas Žemaitis",
+            "Klubas": "Lietkabelis",
+            "Rungtynes": "29",
+            "Suma": "73",
+            "Vidurkis": "2.52"
+      },
+      {
+            "Rankas": "70",
+            "Zaidejas": "Erikas Venskus",
+            "Klubas": "Labas Gas",
+            "Rungtynes": "29",
+            "Suma": "73",
+            "Vidurkis": "2.52"
+      },
+      {
+            "Rankas": "71",
+            "Zaidejas": "Ignas Sargiūnas",
+            "Klubas": "Labas Gas",
+            "Rungtynes": "29",
+            "Suma": "73",
+            "Vidurkis": "2.52"
+      },
+      {
+            "Rankas": "72",
+            "Zaidejas": "Joshua Newkirk",
+            "Klubas": "Dzūkija",
+            "Rungtynes": "29",
+            "Suma": "72",
+            "Vidurkis": "2.48"
+      },
+      {
+            "Rankas": "73",
+            "Zaidejas": "Norbertas Giga",
+            "Klubas": "Uniclub Casino - Juventus",
+            "Rungtynes": "21",
+            "Suma": "52",
+            "Vidurkis": "2.48"
+      },
+      {
+            "Rankas": "74",
+            "Zaidejas": "Lukas Uleckas",
+            "Klubas": "Rytas",
+            "Rungtynes": "29",
+            "Suma": "67",
+            "Vidurkis": "2.31"
+      },
+      {
+            "Rankas": "75",
+            "Zaidejas": "Martynas Gecevičius",
+            "Klubas": "Uniclub Casino - Juventus",
+            "Rungtynes": "22",
+            "Suma": "50",
+            "Vidurkis": "2.27"
+      },
+      {
+            "Rankas": "76",
+            "Zaidejas": "Lachlan Anderson",
+            "Klubas": "CBet",
+            "Rungtynes": "29",
+            "Suma": "64",
+            "Vidurkis": "2.21"
+      },
+      {
+            "Rankas": "77",
+            "Zaidejas": "Dominykas Stenionis",
+            "Klubas": "Nevėžis–Optibet",
+            "Rungtynes": "15",
+            "Suma": "33",
+            "Vidurkis": "2.20"
+      },
+      {
+            "Rankas": "78",
+            "Zaidejas": "Tomas Zdanavičius",
+            "Klubas": "CBet",
+            "Rungtynes": "32",
+            "Suma": "70",
+            "Vidurkis": "2.19"
+      },
+      {
+            "Rankas": "79",
+            "Zaidejas": "Randy Culpepper",
+            "Klubas": "Pieno žvaigždės",
+            "Rungtynes": "16",
+            "Suma": "34",
+            "Vidurkis": "2.13"
+      },
+      {
+            "Rankas": "80",
+            "Zaidejas": "Martynas Mažeika",
+            "Klubas": "Neptūnas",
+            "Rungtynes": "26",
+            "Suma": "54",
+            "Vidurkis": "2.08"
+      },
+      {
+            "Rankas": "81",
+            "Zaidejas": "Dylan Frye",
+            "Klubas": "Dzūkija",
+            "Rungtynes": "30",
+            "Suma": "60",
+            "Vidurkis": "2.00"
+      },
+      {
+            "Rankas": "82",
+            "Zaidejas": "Nikola Radičevič",
+            "Klubas": "Lietkabelis",
+            "Rungtynes": "18",
+            "Suma": "36",
+            "Vidurkis": "2.00"
+      },
+      {
+            "Rankas": "83",
+            "Zaidejas": "Daryl Doualla",
+            "Klubas": "Nevėžis–Optibet",
+            "Rungtynes": "28",
+            "Suma": "55",
+            "Vidurkis": "1.96"
+      },
+      {
+            "Rankas": "84",
+            "Zaidejas": "Marius Valinskas",
+            "Klubas": "Nevėžis–Optibet",
+            "Rungtynes": "26",
+            "Suma": "49",
+            "Vidurkis": "1.88"
+      },
+      {
+            "Rankas": "85",
+            "Zaidejas": "Dovydas Giedraitis",
+            "Klubas": "Lietkabelis",
+            "Rungtynes": "24",
+            "Suma": "41",
+            "Vidurkis": "1.71"
+      },
+      {
+            "Rankas": "86",
+            "Zaidejas": "Grantas Vasiliauskas",
+            "Klubas": "Lietkabelis",
+            "Rungtynes": "22",
+            "Suma": "37",
+            "Vidurkis": "1.68"
+      },
+      {
+            "Rankas": "87",
+            "Zaidejas": "Vaidas Kariniauskas",
+            "Klubas": "Rytas",
+            "Rungtynes": "23",
+            "Suma": "38",
+            "Vidurkis": "1.65"
+      },
+      {
+            "Rankas": "88",
+            "Zaidejas": "Klaidas Metrikis",
+            "Klubas": "Neptūnas",
+            "Rungtynes": "23",
+            "Suma": "38",
+            "Vidurkis": "1.65"
+      },
+      {
+            "Rankas": "89",
+            "Zaidejas": "Janis Strelnieks",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "21",
+            "Suma": "34",
+            "Vidurkis": "1.62"
+      },
+      {
+            "Rankas": "90",
+            "Zaidejas": "Jaylin Airington",
+            "Klubas": "Uniclub Casino - Juventus",
+            "Rungtynes": "24",
+            "Suma": "38",
+            "Vidurkis": "1.58"
+      },
+      {
+            "Rankas": "91",
+            "Zaidejas": "Artūras Milaknis",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "27",
+            "Suma": "42",
+            "Vidurkis": "1.56"
+      },
+      {
+            "Rankas": "92",
+            "Zaidejas": "Lukas Lekavičius",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "24",
+            "Suma": "36",
+            "Vidurkis": "1.50"
+      },
+      {
+            "Rankas": "93",
+            "Zaidejas": "Tahj Jerome Eaddy",
+            "Klubas": "Labas Gas",
+            "Rungtynes": "17",
+            "Suma": "25",
+            "Vidurkis": "1.47"
+      },
+      {
+            "Rankas": "94",
+            "Zaidejas": "Tai Webster",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "18",
+            "Suma": "26",
+            "Vidurkis": "1.44"
+      },
+      {
+            "Rankas": "95",
+            "Zaidejas": "Martynas Zigmantavičius",
+            "Klubas": "Dzūkija",
+            "Rungtynes": "29",
+            "Suma": "40",
+            "Vidurkis": "1.38"
+      },
+      {
+            "Rankas": "96",
+            "Zaidejas": "Paulius Danisevičius",
+            "Klubas": "Pieno žvaigždės",
+            "Rungtynes": "30",
+            "Suma": "41",
+            "Vidurkis": "1.37"
+      },
+      {
+            "Rankas": "97",
+            "Zaidejas": "Justinas Ramanauskas",
+            "Klubas": "CBet",
+            "Rungtynes": "27",
+            "Suma": "36",
+            "Vidurkis": "1.33"
+      },
+      {
+            "Rankas": "98",
+            "Zaidejas": "Tadas Vaičiūnas",
+            "Klubas": "Lietkabelis",
+            "Rungtynes": "23",
+            "Suma": "28",
+            "Vidurkis": "1.22"
+      },
+      {
+            "Rankas": "99",
+            "Zaidejas": "Karolis Lukošiūnas",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "27",
+            "Suma": "32",
+            "Vidurkis": "1.19"
+      },
+      {
+            "Rankas": "100",
+            "Zaidejas": "Mantas Kalnietis",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "21",
+            "Suma": "24",
+            "Vidurkis": "1.14"
+      }
+]

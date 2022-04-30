@@ -47,6 +47,6 @@ for index in range(1, 6):
  
 
 print(arr)
-file_json = open("puslapiai\\html\\scrapinam\\zaidejai3.json", 'w+', encoding='utf-8')
+file_json = open("puslapiai\\html\\scrapinam\\KAMUOLIAI.json", 'w+', encoding='utf-8')
 
 json.dump(arr, file_json, indent = 6, ensure_ascii=False)
