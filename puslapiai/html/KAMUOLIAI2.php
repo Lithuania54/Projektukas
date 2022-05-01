@@ -63,37 +63,37 @@ session_start();
   </header>
   </div>
 
-  <main>
-    <h1>Rezultatyvūs perdavimai</h1>
-  </main>
-   
-  <table class="table">
-    <thead>
-      <tr>
-        <th scope="col"></th>
-        <th scope="col">Žaidėjas</th>
-        <th scope="col">Komanda</th>
-        <th scope="col">Rungtynės</th>
-        <th scope="col">Suma</th>
-        <th scope="col">Vidurkis</th>
-      </tr>
-    </thead>
-    <tbody id="PERDAVIMAI">
-      
-    </tbody>
-  </table>
+    <main>
+      <h1>Atkovoti kamuoliai</h1>
+    </main>
 
-  <footer>
-    <nav aria-label="Page navigation example">
-      <ul class="pagination justify-content-center">
-        <li class="page-item"><a class="page-link btn-outline-dark" href="#" style="color: black;" >Į pradžią</a></li>
-      </ul>
-    </nav>
-  </footer>
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col"></th>
+          <th scope="col">Žaidėjas</th>
+          <th scope="col">Komanda</th>
+          <th scope="col">Rungtynės</th>
+          <th scope="col">Suma</th>
+          <th scope="col">Vidurkis</th>
+        </tr>
+      </thead>
+      <tbody id="KAMUOLIAI">
+        
+      </tbody>
+    </table>
+
+    <footer>
+      <nav aria-label="Page navigation example">
+        <ul class="pagination justify-content-center">
+          <li class="page-item"><a class="page-link btn-outline-dark" href="#" style="color: black;" >Į pradžią</a></li>
+        </ul>
+      </nav>
+    </footer>
 
     <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
     <script src="bootstrap-5.1.3-dist/js/bootstrap.js"></script>
-    <script src="scrapinam/PERDAVIMAI.js"></script>
+    <script src="scrapinam/KAMUOLIAI.js"></script>
 
 </body>
 </html>

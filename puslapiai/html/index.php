@@ -26,7 +26,7 @@ session_start();
         <header class="nav justify-content-center">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container-fluid">
-                  <a class="nav-link" style="color: black; font-size: 20px; padding-left: 0%; padding-right: 2%;" href="PRADINISS.html">PRADINIS</a>
+                  <a class="nav-link" style="color: black; font-size: 20px; padding-left: 0%; padding-right: 2%;" href="index.php">PRADINIS</a>
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                   </button>
@@ -38,20 +38,22 @@ session_start();
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                           <li><a class="dropdown-item" href="PERDAVIMAI2.php">Perdavimai</a></li>
-                          <li><a class="dropdown-item" href="TASKAI.html">Pelnomi taškai</a></li>
-                          <li><a class="dropdown-item" href="KAMUOLIAI.html">Atkovoti kamuoliai</a></li>
+                          <li><a class="dropdown-item" href="TASKAI2.php">Pelnomi taškai</a></li>
+                          <li><a class="dropdown-item" href="KAMUOLIAI2.php">Atkovoti kamuoliai</a></li>
                           <li><hr class="dropdown-divider"></li>
-                          <li><a class="dropdown-item" href="GERIAUSI.html">Sezono geriausi</a></li>
+                          <li><a class="dropdown-item" href="GERIAUSI2.php">Sezono geriausi</a></li>
                         </ul>
                       </li>
-                      <img class="rotate" src="images/kamuolys.png" alt="Pradinis logo">
+                      <a href="index.php">
+                        <img class="rotate" src="images/kamuolys.png" alt="Pradinis logo">
+                      </a>
                       <li class="nav-item">
-                        <a class="nav-link" style="color: black; font-size: 20px;" href="LOGIN.html">PRISIJUNGIMAS</a>
+                        <a class="nav-link" style="color: black; font-size: 20px;" href="PROFILIS.php">PROFILIS</a>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" style="color: black; font-size: 20px;" href="REGISTRACIJA.html">REGISTRACIJA</a>
+                        <a class="nav-link" style="color: black; font-size: 20px;" href="logout.php">ATSIJUNGTI</a>
                       </li>
-                      <ul class="nav justify-content-end">
+                        <ul class="nav justify-content-end">
                       </ul>
                     </ul>
                   </div>

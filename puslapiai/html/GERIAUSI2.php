@@ -18,7 +18,7 @@ session_start();
     <title>LKL žaidėjų statistika</title>
     <meta name="description" content="kazka reiks sugalvot">
     <link rel="stylesheet" href="bootstrap-5.1.3-dist/css/bootstrap.css">
-    <link rel="stylesheet" href="css2/statistika.css">
+    <link rel="stylesheet" href="css2/stylesindex.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 </head>
 
@@ -63,37 +63,42 @@ session_start();
   </header>
   </div>
 
-  <main>
-    <h1>Rezultatyvūs perdavimai</h1>
-  </main>
-   
-  <table class="table">
-    <thead>
-      <tr>
-        <th scope="col"></th>
-        <th scope="col">Žaidėjas</th>
-        <th scope="col">Komanda</th>
-        <th scope="col">Rungtynės</th>
-        <th scope="col">Suma</th>
-        <th scope="col">Vidurkis</th>
-      </tr>
-    </thead>
-    <tbody id="PERDAVIMAI">
-      
-    </tbody>
-  </table>
+  <header2>
+    <h1>Geriausi 2021-2022 sezono žaidėjai</h1>
+  </header2>
 
-  <footer>
-    <nav aria-label="Page navigation example">
-      <ul class="pagination justify-content-center">
-        <li class="page-item"><a class="page-link btn-outline-dark" href="#" style="color: black;" >Į pradžią</a></li>
-      </ul>
-    </nav>
-  </footer>
+  <main>
+    <div class="products"></div>
+    <script>
+      let http = new XMLHttpRequest();
+        http.open('get', 'scrapinam/nuotrauka.json', true);
+        http.send();
+        http.onload = function(){
+          if(this.readyState == 4 && this.status == 200){
+              let products = JSON.parse(this.responseText);
+              let output = "";
+              for(let item of products){
+                output += `
+                    <div class="product">
+                      <img src="${item.Nuotrauka}">
+                      <p class="title">${item.Zaidejas}</p>
+                      <table>
+                          <tr>
+                            <th class="th1"> ${item.Vidurkis} </th>
+                            <th class="th2"> ${item.Klubas} </th>
+                          </tr>
+                      </table>
+                    </div>
+                `;
+              }
+              document.querySelector(".products").innerHTML = output;
+          }
+        }
+    </script>
+  </main>
 
     <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
     <script src="bootstrap-5.1.3-dist/js/bootstrap.js"></script>
-    <script src="scrapinam/PERDAVIMAI.js"></script>
 
 </body>
 </html>

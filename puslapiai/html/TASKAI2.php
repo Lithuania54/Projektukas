@@ -11,15 +11,15 @@ session_start();
 <!DOCTYPE html>
 <html lang="en">
 
-<head>  
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LKL žaidėjų statistika</title>
-    <meta name="description" content="kazka reiks sugalvot">
-    <link rel="stylesheet" href="bootstrap-5.1.3-dist/css/bootstrap.css">
-    <link rel="stylesheet" href="css2/statistika.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LKL žaidėjų statistika</title>
+  <meta name="description" content="kazka reiks sugalvot">
+  <link rel="stylesheet" href="bootstrap-5.1.3-dist/css/bootstrap.css">
+  <link rel="stylesheet" href="css2/statistika.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -64,9 +64,9 @@ session_start();
   </div>
 
   <main>
-    <h1>Rezultatyvūs perdavimai</h1>
+    <h1>Pelnomi taškai</h1>
   </main>
-   
+
   <table class="table">
     <thead>
       <tr>
@@ -78,7 +78,7 @@ session_start();
         <th scope="col">Vidurkis</th>
       </tr>
     </thead>
-    <tbody id="PERDAVIMAI">
+    <tbody id="TASKAI">
       
     </tbody>
   </table>
@@ -91,9 +91,11 @@ session_start();
     </nav>
   </footer>
 
-    <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
-    <script src="bootstrap-5.1.3-dist/js/bootstrap.js"></script>
-    <script src="scrapinam/PERDAVIMAI.js"></script>
+  <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
+  <script src="bootstrap-5.1.3-dist/js/bootstrap.js"></script>
+  <script src="scrapinam/TASKAI.js
+  "></script>
 
 </body>
+
 </html>
