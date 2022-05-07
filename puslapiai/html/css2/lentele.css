@@ -89,4 +89,6 @@ img {
     max-width: 50px;
     min-width: 40px;
     height: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
