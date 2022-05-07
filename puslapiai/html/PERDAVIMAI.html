@@ -33,6 +33,7 @@
                     <li><a class="dropdown-item" href="KAMUOLIAI.html">Atkovoti kamuoliai</a></li>
                     <li><hr class="dropdown-divider"></li>
                     <li><a class="dropdown-item" href="GERIAUSI.html">Sezono geriausi</a></li>
+                    <li><a class="dropdown-item" href="LENTELE.html">Turnyrinė lentelė</a></li>
                   </ul>
                 </li>
                 <a href="PRADINISS.html">
@@ -53,25 +54,49 @@
   </header>
   </div>
 
-  <main>
+  <header2>
     <h1>Rezultatyvūs perdavimai</h1>
+  </header2>
+
+  <main>
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col"></th>
+          <th scope="col">Žaidėjas</th>
+          <th scope="col">Komanda</th>
+          <th scope="col">Rungtynės</th>
+          <th scope="col">Suma</th>
+          <th scope="col">Vidurkis</th>
+        </tr>
+      </thead>
+      <tbody class="tbody"></tbody>
+    <script>
+      let http = new XMLHttpRequest();
+        http.open('get', 'scrapinam/PERDAVIMAI.json', true);
+        http.send();
+        http.onload = function(){
+          if(this.readyState == 4 && this.status == 200){
+              let products = JSON.parse(this.responseText);
+              let output = "";
+              for(let item of products){
+                output += `
+                    <tr>
+                      <td>${item.Rankas}</td>
+                      <td>${item.Zaidejas}</td>
+                      <td>${item.Klubas}</td>
+                      <td>${item.Rungtynes}</td>
+                      <td>${item.Suma}</td>
+                      <td>${item.Vidurkis}</td>
+                    </tr>
+                `;
+              }
+              document.querySelector(".tbody").innerHTML = output;
+          }
+        }
+    </script>
+    </table>
   </main>
-   
-  <table class="table">
-    <thead>
-      <tr>
-        <th scope="col"></th>
-        <th scope="col">Žaidėjas</th>
-        <th scope="col">Komanda</th>
-        <th scope="col">Rungtynės</th>
-        <th scope="col">Suma</th>
-        <th scope="col">Vidurkis</th>
-      </tr>
-    </thead>
-    <tbody id="PERDAVIMAI">
-      
-    </tbody>
-  </table>
 
   <footer>
     <nav aria-label="Page navigation example">
@@ -83,7 +108,6 @@
 
     <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
     <script src="bootstrap-5.1.3-dist/js/bootstrap.js"></script>
-    <script src="scrapinam/PERDAVIMAI.js"></script>
 
 </body>
 </html>
