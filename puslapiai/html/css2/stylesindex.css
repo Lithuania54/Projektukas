@@ -111,13 +111,16 @@ h2{
     display: block;
 }
 .product .title{
-    font-family: 'Fjalla One', sans-serif;
-    font-size: 1.7em;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2em;
     text-align: center;
     padding-top: 30px;
     padding-bottom: 10px;
-    font-weight: 600;
+    font-weight: 300;
     text-transform: uppercase;
+    color: black;
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px grey;
 }
 .product{
     padding: 0 25px 20px 20px;
@@ -166,4 +169,12 @@ h2{
     padding-left: 30px;
     padding-right: auto;
     font-size: 16px;
+}
+
+.antra {
+    width: 100%;
+}
+
+.header2 {
+    text-shadow: 2px 2px 5px grey;
 }
