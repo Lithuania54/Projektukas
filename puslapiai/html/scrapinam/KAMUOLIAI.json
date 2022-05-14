@@ -1,14 +1,7 @@
 [
       {
             "Rankas": "1",
-            "Zaidejas": "Juan Palacios",
-            "Klubas": "CBet",
-            "Rungtynes": "23",
-            "Suma": "179",
-            "Vidurkis": "7.78"
-      },
-      {
-            "Rankas": "2",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/BSeCsP7Fkt4Y5Tfbw33wTj2WdgzRIWUbGovi6fw6.svg",
             "Zaidejas": "Amar Sylla",
             "Klubas": "Nevėžis–Optibet",
             "Rungtynes": "29",
@@ -16,31 +9,35 @@
             "Vidurkis": "7.62"
       },
       {
+            "Rankas": "2",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/yF7chWgpWeybfyhrsf0T2Pe7oJgBq5G6fLtLf6K0.svg",
+            "Zaidejas": "Juan Palacios",
+            "Klubas": "CBet",
+            "Rungtynes": "24",
+            "Suma": "182",
+            "Vidurkis": "7.58"
+      },
+      {
             "Rankas": "3",
-            "Zaidejas": "Gytis Radzevičius",
-            "Klubas": "Rytas",
-            "Rungtynes": "32",
-            "Suma": "216",
-            "Vidurkis": "6.75"
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/mcVQz0wp8cvhC7AAdMauEkKiqwcEEJqGdi1k9LZJ.svg",
+            "Zaidejas": "Benas Griciūnas",
+            "Klubas": "Neptūnas",
+            "Rungtynes": "34",
+            "Suma": "229",
+            "Vidurkis": "6.74"
       },
       {
             "Rankas": "4",
-            "Zaidejas": "Giedrius Staniulis",
-            "Klubas": "Šiauliai-7bet",
-            "Rungtynes": "30",
-            "Suma": "200",
-            "Vidurkis": "6.67"
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/9HeCOlpWX1ZZmvNBSKRV9od4akkVpxGhqUJANCwR.svg",
+            "Zaidejas": "Gytis Radzevičius",
+            "Klubas": "Rytas",
+            "Rungtynes": "34",
+            "Suma": "229",
+            "Vidurkis": "6.74"
       },
       {
             "Rankas": "5",
-            "Zaidejas": "Benas Griciūnas",
-            "Klubas": "Neptūnas",
-            "Rungtynes": "32",
-            "Suma": "213",
-            "Vidurkis": "6.66"
-      },
-      {
-            "Rankas": "6",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/izBxH8eJawA5WqArRfVm05u9vV7Xyy1MTPzhpAvP.svg",
             "Zaidejas": "Simas Jarumbauskas",
             "Klubas": "Pieno žvaigždės",
             "Rungtynes": "29",
@@ -48,7 +45,17 @@
             "Vidurkis": "6.66"
       },
       {
+            "Rankas": "6",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/dUQtV1aq2fNiwhvKOG5TNBSFvkQNiISLQVbjAAzw.svg",
+            "Zaidejas": "Giedrius Staniulis",
+            "Klubas": "Šiauliai-7bet",
+            "Rungtynes": "32",
+            "Suma": "212",
+            "Vidurkis": "6.63"
+      },
+      {
             "Rankas": "7",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/wHb221TEa59JI2lUBwmhLPMbhER2YKzds33Mx3wz.svg",
             "Zaidejas": "Rokas Gustys",
             "Klubas": "Uniclub Casino - Juventus",
             "Rungtynes": "30",
@@ -57,14 +64,7 @@
       },
       {
             "Rankas": "8",
-            "Zaidejas": "Ivan Buva",
-            "Klubas": "Rytas",
-            "Rungtynes": "27",
-            "Suma": "168",
-            "Vidurkis": "6.22"
-      },
-      {
-            "Rankas": "9",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/DmwVdhfdRypr7xVtsL14GSidaCd2oJJvFSPVls93.svg",
             "Zaidejas": "Rapolas Ivanauskas",
             "Klubas": "Labas Gas",
             "Rungtynes": "29",
@@ -72,47 +72,44 @@
             "Vidurkis": "6.21"
       },
       {
+            "Rankas": "9",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/9HeCOlpWX1ZZmvNBSKRV9od4akkVpxGhqUJANCwR.svg",
+            "Zaidejas": "Ivan Buva",
+            "Klubas": "Rytas",
+            "Rungtynes": "29",
+            "Suma": "178",
+            "Vidurkis": "6.14"
+      },
+      {
             "Rankas": "10",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
             "Zaidejas": "Tyler Cavanaugh",
             "Klubas": "Žalgiris",
-            "Rungtynes": "29",
-            "Suma": "161",
-            "Vidurkis": "5.55"
+            "Rungtynes": "31",
+            "Suma": "168",
+            "Vidurkis": "5.42"
       },
       {
             "Rankas": "11",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/2wB2a1YeslQ98grQ5LVGmdENEgQclgLC3bQMNUfq.svg",
             "Zaidejas": "Adam Lapeta",
             "Klubas": "Dzūkija",
-            "Rungtynes": "32",
-            "Suma": "170",
-            "Vidurkis": "5.31"
+            "Rungtynes": "33",
+            "Suma": "175",
+            "Vidurkis": "5.30"
       },
       {
             "Rankas": "12",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/yF7chWgpWeybfyhrsf0T2Pe7oJgBq5G6fLtLf6K0.svg",
             "Zaidejas": "Vitalijus Kozys",
             "Klubas": "CBet",
-            "Rungtynes": "31",
-            "Suma": "164",
-            "Vidurkis": "5.29"
+            "Rungtynes": "32",
+            "Suma": "166",
+            "Vidurkis": "5.19"
       },
       {
             "Rankas": "13",
-            "Zaidejas": "Aleksandar Aranitovič",
-            "Klubas": "Dzūkija",
-            "Rungtynes": "31",
-            "Suma": "159",
-            "Vidurkis": "5.13"
-      },
-      {
-            "Rankas": "14",
-            "Zaidejas": "Joshua Nebo",
-            "Klubas": "Žalgiris",
-            "Rungtynes": "33",
-            "Suma": "168",
-            "Vidurkis": "5.09"
-      },
-      {
-            "Rankas": "15",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/DmwVdhfdRypr7xVtsL14GSidaCd2oJJvFSPVls93.svg",
             "Zaidejas": "Juwan Josiah Durham",
             "Klubas": "Labas Gas",
             "Rungtynes": "25",
@@ -120,15 +117,26 @@
             "Vidurkis": "5.08"
       },
       {
-            "Rankas": "16",
-            "Zaidejas": "Deividas Gailius",
-            "Klubas": "Neptūnas",
-            "Rungtynes": "29",
-            "Suma": "142",
-            "Vidurkis": "4.90"
+            "Rankas": "14",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
+            "Zaidejas": "Joshua Nebo",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "35",
+            "Suma": "177",
+            "Vidurkis": "5.06"
       },
       {
-            "Rankas": "17",
+            "Rankas": "15",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/2wB2a1YeslQ98grQ5LVGmdENEgQclgLC3bQMNUfq.svg",
+            "Zaidejas": "Aleksandar Aranitovič",
+            "Klubas": "Dzūkija",
+            "Rungtynes": "32",
+            "Suma": "160",
+            "Vidurkis": "5.00"
+      },
+      {
+            "Rankas": "16",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
             "Zaidejas": "Edgaras Ulanovas",
             "Klubas": "Žalgiris",
             "Rungtynes": "29",
@@ -136,7 +144,8 @@
             "Vidurkis": "4.86"
       },
       {
-            "Rankas": "18",
+            "Rankas": "17",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/BSeCsP7Fkt4Y5Tfbw33wTj2WdgzRIWUbGovi6fw6.svg",
             "Zaidejas": "Rihards Kuksiks",
             "Klubas": "Nevėžis–Optibet",
             "Rungtynes": "25",
@@ -144,7 +153,8 @@
             "Vidurkis": "4.84"
       },
       {
-            "Rankas": "19",
+            "Rankas": "18",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/izBxH8eJawA5WqArRfVm05u9vV7Xyy1MTPzhpAvP.svg",
             "Zaidejas": "Karolis Guščikas",
             "Klubas": "Pieno žvaigždės",
             "Rungtynes": "31",
@@ -152,7 +162,8 @@
             "Vidurkis": "4.77"
       },
       {
-            "Rankas": "20",
+            "Rankas": "19",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/0oybdHJISUSljroiP0ivvR5TT2sbIzOgi8pYvSuX.svg",
             "Zaidejas": "Dorde Gagič",
             "Klubas": "Lietkabelis",
             "Rungtynes": "34",
@@ -160,47 +171,35 @@
             "Vidurkis": "4.76"
       },
       {
+            "Rankas": "20",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/mcVQz0wp8cvhC7AAdMauEkKiqwcEEJqGdi1k9LZJ.svg",
+            "Zaidejas": "Deividas Gailius",
+            "Klubas": "Neptūnas",
+            "Rungtynes": "31",
+            "Suma": "146",
+            "Vidurkis": "4.71"
+      },
+      {
             "Rankas": "21",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/2wB2a1YeslQ98grQ5LVGmdENEgQclgLC3bQMNUfq.svg",
             "Zaidejas": "Justas Furmanavičius",
             "Klubas": "Dzūkija",
-            "Rungtynes": "33",
-            "Suma": "155",
-            "Vidurkis": "4.70"
+            "Rungtynes": "34",
+            "Suma": "159",
+            "Vidurkis": "4.68"
       },
       {
             "Rankas": "22",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/9HeCOlpWX1ZZmvNBSKRV9od4akkVpxGhqUJANCwR.svg",
             "Zaidejas": "Arnas Butkevičius",
             "Klubas": "Rytas",
-            "Rungtynes": "31",
-            "Suma": "144",
-            "Vidurkis": "4.65"
+            "Rungtynes": "33",
+            "Suma": "153",
+            "Vidurkis": "4.64"
       },
       {
             "Rankas": "23",
-            "Zaidejas": "Edgaras Želionis",
-            "Klubas": "Neptūnas",
-            "Rungtynes": "32",
-            "Suma": "148",
-            "Vidurkis": "4.63"
-      },
-      {
-            "Rankas": "24",
-            "Zaidejas": "Isaiah Armwood",
-            "Klubas": "Šiauliai-7bet",
-            "Rungtynes": "31",
-            "Suma": "143",
-            "Vidurkis": "4.61"
-      },
-      {
-            "Rankas": "25",
-            "Zaidejas": "Paulius Danusevičius",
-            "Klubas": "Šiauliai-7bet",
-            "Rungtynes": "29",
-            "Suma": "133",
-            "Vidurkis": "4.59"
-      },
-      {
-            "Rankas": "26",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/0oybdHJISUSljroiP0ivvR5TT2sbIzOgi8pYvSuX.svg",
             "Zaidejas": "Vytenis Lipkevičius",
             "Klubas": "Lietkabelis",
             "Rungtynes": "28",
@@ -208,7 +207,17 @@
             "Vidurkis": "4.57"
       },
       {
-            "Rankas": "27",
+            "Rankas": "24",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/mcVQz0wp8cvhC7AAdMauEkKiqwcEEJqGdi1k9LZJ.svg",
+            "Zaidejas": "Edgaras Želionis",
+            "Klubas": "Neptūnas",
+            "Rungtynes": "34",
+            "Suma": "155",
+            "Vidurkis": "4.56"
+      },
+      {
+            "Rankas": "25",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/wHb221TEa59JI2lUBwmhLPMbhER2YKzds33Mx3wz.svg",
             "Zaidejas": "Tomas Lekūnas",
             "Klubas": "Uniclub Casino - Juventus",
             "Rungtynes": "31",
@@ -216,23 +225,53 @@
             "Vidurkis": "4.55"
       },
       {
-            "Rankas": "28",
-            "Zaidejas": "Vaidas Čepukaitis",
-            "Klubas": "Dzūkija",
+            "Rankas": "26",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/dUQtV1aq2fNiwhvKOG5TNBSFvkQNiISLQVbjAAzw.svg",
+            "Zaidejas": "Paulius Danusevičius",
+            "Klubas": "Šiauliai-7bet",
             "Rungtynes": "31",
-            "Suma": "141",
-            "Vidurkis": "4.55"
+            "Suma": "140",
+            "Vidurkis": "4.52"
+      },
+      {
+            "Rankas": "27",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
+            "Zaidejas": "Joffrey Lauvergne",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "18",
+            "Suma": "81",
+            "Vidurkis": "4.50"
+      },
+      {
+            "Rankas": "28",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/dUQtV1aq2fNiwhvKOG5TNBSFvkQNiISLQVbjAAzw.svg",
+            "Zaidejas": "Isaiah Armwood",
+            "Klubas": "Šiauliai-7bet",
+            "Rungtynes": "33",
+            "Suma": "148",
+            "Vidurkis": "4.48"
       },
       {
             "Rankas": "29",
-            "Zaidejas": "Kahlil Thomas",
-            "Klubas": "CBet",
-            "Rungtynes": "28",
-            "Suma": "123",
-            "Vidurkis": "4.39"
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/2wB2a1YeslQ98grQ5LVGmdENEgQclgLC3bQMNUfq.svg",
+            "Zaidejas": "Vaidas Čepukaitis",
+            "Klubas": "Dzūkija",
+            "Rungtynes": "32",
+            "Suma": "142",
+            "Vidurkis": "4.44"
       },
       {
             "Rankas": "30",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/dUQtV1aq2fNiwhvKOG5TNBSFvkQNiISLQVbjAAzw.svg",
+            "Zaidejas": "Donatas Sabeckis",
+            "Klubas": "Šiauliai-7bet",
+            "Rungtynes": "34",
+            "Suma": "150",
+            "Vidurkis": "4.41"
+      },
+      {
+            "Rankas": "31",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/izBxH8eJawA5WqArRfVm05u9vV7Xyy1MTPzhpAvP.svg",
             "Zaidejas": "Žygimantas Skučas",
             "Klubas": "Pieno žvaigždės",
             "Rungtynes": "32",
@@ -240,23 +279,17 @@
             "Vidurkis": "4.38"
       },
       {
-            "Rankas": "31",
-            "Zaidejas": "Paulius Jankūnas",
+            "Rankas": "32",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
+            "Zaidejas": "Regimantas Miniotas",
             "Klubas": "Žalgiris",
-            "Rungtynes": "21",
-            "Suma": "91",
+            "Rungtynes": "18",
+            "Suma": "78",
             "Vidurkis": "4.33"
       },
       {
-            "Rankas": "32",
-            "Zaidejas": "Donatas Sabeckis",
-            "Klubas": "Šiauliai-7bet",
-            "Rungtynes": "32",
-            "Suma": "137",
-            "Vidurkis": "4.28"
-      },
-      {
             "Rankas": "33",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/izBxH8eJawA5WqArRfVm05u9vV7Xyy1MTPzhpAvP.svg",
             "Zaidejas": "Arnas Beručka",
             "Klubas": "Pieno žvaigždės",
             "Rungtynes": "31",
@@ -265,6 +298,16 @@
       },
       {
             "Rankas": "34",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/yF7chWgpWeybfyhrsf0T2Pe7oJgBq5G6fLtLf6K0.svg",
+            "Zaidejas": "Kahlil Thomas",
+            "Klubas": "CBet",
+            "Rungtynes": "29",
+            "Suma": "123",
+            "Vidurkis": "4.24"
+      },
+      {
+            "Rankas": "35",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/BSeCsP7Fkt4Y5Tfbw33wTj2WdgzRIWUbGovi6fw6.svg",
             "Zaidejas": "Sven Smajlagič",
             "Klubas": "Nevėžis–Optibet",
             "Rungtynes": "19",
@@ -272,7 +315,17 @@
             "Vidurkis": "4.21"
       },
       {
-            "Rankas": "35",
+            "Rankas": "36",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
+            "Zaidejas": "Paulius Jankūnas",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "23",
+            "Suma": "96",
+            "Vidurkis": "4.17"
+      },
+      {
+            "Rankas": "37",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/0oybdHJISUSljroiP0ivvR5TT2sbIzOgi8pYvSuX.svg",
             "Zaidejas": "Panagiotis Kalaitzakis",
             "Klubas": "Lietkabelis",
             "Rungtynes": "32",
@@ -280,15 +333,17 @@
             "Vidurkis": "4.16"
       },
       {
-            "Rankas": "36",
+            "Rankas": "38",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/2wB2a1YeslQ98grQ5LVGmdENEgQclgLC3bQMNUfq.svg",
             "Zaidejas": "Mindaugas Lukauskis",
             "Klubas": "Dzūkija",
-            "Rungtynes": "33",
-            "Suma": "137",
-            "Vidurkis": "4.15"
+            "Rungtynes": "34",
+            "Suma": "138",
+            "Vidurkis": "4.06"
       },
       {
-            "Rankas": "37",
+            "Rankas": "39",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/izBxH8eJawA5WqArRfVm05u9vV7Xyy1MTPzhpAvP.svg",
             "Zaidejas": "Paulius Petrilevičius",
             "Klubas": "Pieno žvaigždės",
             "Rungtynes": "22",
@@ -296,15 +351,8 @@
             "Vidurkis": "4.05"
       },
       {
-            "Rankas": "38",
-            "Zaidejas": "Matas Jogėla",
-            "Klubas": "Neptūnas",
-            "Rungtynes": "30",
-            "Suma": "118",
-            "Vidurkis": "3.93"
-      },
-      {
-            "Rankas": "39",
+            "Rankas": "40",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/0oybdHJISUSljroiP0ivvR5TT2sbIzOgi8pYvSuX.svg",
             "Zaidejas": "Gediminas Orelik",
             "Klubas": "Lietkabelis",
             "Rungtynes": "29",
@@ -312,31 +360,44 @@
             "Vidurkis": "3.93"
       },
       {
-            "Rankas": "40",
-            "Zaidejas": "Laimonas Kisielius",
-            "Klubas": "CBet",
-            "Rungtynes": "26",
-            "Suma": "100",
-            "Vidurkis": "3.85"
-      },
-      {
             "Rankas": "41",
-            "Zaidejas": "Edvinas Šeškus",
-            "Klubas": "CBet",
-            "Rungtynes": "31",
-            "Suma": "118",
-            "Vidurkis": "3.81"
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/mcVQz0wp8cvhC7AAdMauEkKiqwcEEJqGdi1k9LZJ.svg",
+            "Zaidejas": "Matas Jogėla",
+            "Klubas": "Neptūnas",
+            "Rungtynes": "32",
+            "Suma": "123",
+            "Vidurkis": "3.84"
       },
       {
             "Rankas": "42",
-            "Zaidejas": "Tanner Leissner",
-            "Klubas": "Rytas",
-            "Rungtynes": "26",
-            "Suma": "98",
-            "Vidurkis": "3.77"
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/yF7chWgpWeybfyhrsf0T2Pe7oJgBq5G6fLtLf6K0.svg",
+            "Zaidejas": "Laimonas Kisielius",
+            "Klubas": "CBet",
+            "Rungtynes": "27",
+            "Suma": "102",
+            "Vidurkis": "3.78"
       },
       {
             "Rankas": "43",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/yF7chWgpWeybfyhrsf0T2Pe7oJgBq5G6fLtLf6K0.svg",
+            "Zaidejas": "Edvinas Šeškus",
+            "Klubas": "CBet",
+            "Rungtynes": "32",
+            "Suma": "120",
+            "Vidurkis": "3.75"
+      },
+      {
+            "Rankas": "44",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/9HeCOlpWX1ZZmvNBSKRV9od4akkVpxGhqUJANCwR.svg",
+            "Zaidejas": "Tanner Leissner",
+            "Klubas": "Rytas",
+            "Rungtynes": "28",
+            "Suma": "105",
+            "Vidurkis": "3.75"
+      },
+      {
+            "Rankas": "45",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/0oybdHJISUSljroiP0ivvR5TT2sbIzOgi8pYvSuX.svg",
             "Zaidejas": "Gabrielius Maldūnas",
             "Klubas": "Lietkabelis",
             "Rungtynes": "34",
@@ -344,23 +405,17 @@
             "Vidurkis": "3.65"
       },
       {
-            "Rankas": "44",
+            "Rankas": "46",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/2wB2a1YeslQ98grQ5LVGmdENEgQclgLC3bQMNUfq.svg",
             "Zaidejas": "Artūras Jomantas",
             "Klubas": "Dzūkija",
-            "Rungtynes": "25",
-            "Suma": "90",
-            "Vidurkis": "3.60"
+            "Rungtynes": "26",
+            "Suma": "94",
+            "Vidurkis": "3.62"
       },
       {
-            "Rankas": "45",
-            "Zaidejas": "Martynas Varnas",
-            "Klubas": "Šiauliai-7bet",
-            "Rungtynes": "33",
-            "Suma": "118",
-            "Vidurkis": "3.58"
-      },
-      {
-            "Rankas": "46",
+            "Rankas": "47",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/wHb221TEa59JI2lUBwmhLPMbhER2YKzds33Mx3wz.svg",
             "Zaidejas": "Vytautas Šulskis",
             "Klubas": "Uniclub Casino - Juventus",
             "Rungtynes": "31",
@@ -368,7 +423,17 @@
             "Vidurkis": "3.55"
       },
       {
-            "Rankas": "47",
+            "Rankas": "48",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/dUQtV1aq2fNiwhvKOG5TNBSFvkQNiISLQVbjAAzw.svg",
+            "Zaidejas": "Martynas Varnas",
+            "Klubas": "Šiauliai-7bet",
+            "Rungtynes": "35",
+            "Suma": "123",
+            "Vidurkis": "3.51"
+      },
+      {
+            "Rankas": "49",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
             "Zaidejas": "Marek Blaževič",
             "Klubas": "Žalgiris",
             "Rungtynes": "28",
@@ -376,7 +441,8 @@
             "Vidurkis": "3.50"
       },
       {
-            "Rankas": "48",
+            "Rankas": "50",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/DmwVdhfdRypr7xVtsL14GSidaCd2oJJvFSPVls93.svg",
             "Zaidejas": "Jovan Kljajič",
             "Klubas": "Labas Gas",
             "Rungtynes": "28",
@@ -384,7 +450,8 @@
             "Vidurkis": "3.43"
       },
       {
-            "Rankas": "49",
+            "Rankas": "51",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/wHb221TEa59JI2lUBwmhLPMbhER2YKzds33Mx3wz.svg",
             "Zaidejas": "Ignas Vaitkus",
             "Klubas": "Uniclub Casino - Juventus",
             "Rungtynes": "27",
@@ -392,15 +459,17 @@
             "Vidurkis": "3.41"
       },
       {
-            "Rankas": "50",
+            "Rankas": "52",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/mcVQz0wp8cvhC7AAdMauEkKiqwcEEJqGdi1k9LZJ.svg",
             "Zaidejas": "Julius Jucikas",
             "Klubas": "Neptūnas",
-            "Rungtynes": "33",
-            "Suma": "111",
-            "Vidurkis": "3.36"
+            "Rungtynes": "35",
+            "Suma": "118",
+            "Vidurkis": "3.37"
       },
       {
-            "Rankas": "51",
+            "Rankas": "53",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/izBxH8eJawA5WqArRfVm05u9vV7Xyy1MTPzhpAvP.svg",
             "Zaidejas": "Markell Johnson",
             "Klubas": "Pieno žvaigždės",
             "Rungtynes": "25",
@@ -408,15 +477,8 @@
             "Vidurkis": "3.36"
       },
       {
-            "Rankas": "52",
-            "Zaidejas": "Jonathan Elmore",
-            "Klubas": "Šiauliai-7bet",
-            "Rungtynes": "26",
-            "Suma": "87",
-            "Vidurkis": "3.35"
-      },
-      {
-            "Rankas": "53",
+            "Rankas": "54",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/DmwVdhfdRypr7xVtsL14GSidaCd2oJJvFSPVls93.svg",
             "Zaidejas": "Justinas Jogminas",
             "Klubas": "Labas Gas",
             "Rungtynes": "28",
@@ -424,7 +486,8 @@
             "Vidurkis": "3.32"
       },
       {
-            "Rankas": "54",
+            "Rankas": "55",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/mcVQz0wp8cvhC7AAdMauEkKiqwcEEJqGdi1k9LZJ.svg",
             "Zaidejas": "Žygimantas Janavičius",
             "Klubas": "Neptūnas",
             "Rungtynes": "32",
@@ -432,7 +495,17 @@
             "Vidurkis": "3.31"
       },
       {
-            "Rankas": "55",
+            "Rankas": "56",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/dUQtV1aq2fNiwhvKOG5TNBSFvkQNiISLQVbjAAzw.svg",
+            "Zaidejas": "Jonathan Elmore",
+            "Klubas": "Šiauliai-7bet",
+            "Rungtynes": "27",
+            "Suma": "87",
+            "Vidurkis": "3.22"
+      },
+      {
+            "Rankas": "57",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/DmwVdhfdRypr7xVtsL14GSidaCd2oJJvFSPVls93.svg",
             "Zaidejas": "Giedrius Stankevičius",
             "Klubas": "Labas Gas",
             "Rungtynes": "29",
@@ -440,7 +513,26 @@
             "Vidurkis": "3.21"
       },
       {
-            "Rankas": "56",
+            "Rankas": "58",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/yF7chWgpWeybfyhrsf0T2Pe7oJgBq5G6fLtLf6K0.svg",
+            "Zaidejas": "Evaldas Šaulys",
+            "Klubas": "CBet",
+            "Rungtynes": "29",
+            "Suma": "93",
+            "Vidurkis": "3.21"
+      },
+      {
+            "Rankas": "59",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
+            "Zaidejas": "Niels Giffey",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "34",
+            "Suma": "109",
+            "Vidurkis": "3.21"
+      },
+      {
+            "Rankas": "60",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/BSeCsP7Fkt4Y5Tfbw33wTj2WdgzRIWUbGovi6fw6.svg",
             "Zaidejas": "Paulius Murauskas",
             "Klubas": "Nevėžis–Optibet",
             "Rungtynes": "25",
@@ -448,7 +540,8 @@
             "Vidurkis": "3.16"
       },
       {
-            "Rankas": "57",
+            "Rankas": "61",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/wHb221TEa59JI2lUBwmhLPMbhER2YKzds33Mx3wz.svg",
             "Zaidejas": "Patrick Miller",
             "Klubas": "Uniclub Casino - Juventus",
             "Rungtynes": "29",
@@ -456,23 +549,8 @@
             "Vidurkis": "3.10"
       },
       {
-            "Rankas": "58",
-            "Zaidejas": "Evaldas Šaulys",
-            "Klubas": "CBet",
-            "Rungtynes": "28",
-            "Suma": "86",
-            "Vidurkis": "3.07"
-      },
-      {
-            "Rankas": "59",
-            "Zaidejas": "Niels Giffey",
-            "Klubas": "Žalgiris",
-            "Rungtynes": "32",
-            "Suma": "98",
-            "Vidurkis": "3.06"
-      },
-      {
-            "Rankas": "60",
+            "Rankas": "62",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/DmwVdhfdRypr7xVtsL14GSidaCd2oJJvFSPVls93.svg",
             "Zaidejas": "Ivan Perasovič",
             "Klubas": "Labas Gas",
             "Rungtynes": "21",
@@ -480,7 +558,8 @@
             "Vidurkis": "3.00"
       },
       {
-            "Rankas": "61",
+            "Rankas": "63",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/0oybdHJISUSljroiP0ivvR5TT2sbIzOgi8pYvSuX.svg",
             "Zaidejas": "Kaspars Berzins",
             "Klubas": "Lietkabelis",
             "Rungtynes": "33",
@@ -488,31 +567,26 @@
             "Vidurkis": "3.00"
       },
       {
-            "Rankas": "62",
+            "Rankas": "64",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/dUQtV1aq2fNiwhvKOG5TNBSFvkQNiISLQVbjAAzw.svg",
             "Zaidejas": "Eimantas Stankevičius",
             "Klubas": "Šiauliai-7bet",
-            "Rungtynes": "32",
-            "Suma": "89",
-            "Vidurkis": "2.78"
-      },
-      {
-            "Rankas": "63",
-            "Zaidejas": "Nemanja Bezbradica",
-            "Klubas": "Šiauliai-7bet",
-            "Rungtynes": "22",
-            "Suma": "59",
-            "Vidurkis": "2.68"
-      },
-      {
-            "Rankas": "64",
-            "Zaidejas": "Margiris Normantas",
-            "Klubas": "Rytas",
-            "Rungtynes": "31",
-            "Suma": "83",
-            "Vidurkis": "2.68"
+            "Rungtynes": "34",
+            "Suma": "93",
+            "Vidurkis": "2.74"
       },
       {
             "Rankas": "65",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/dUQtV1aq2fNiwhvKOG5TNBSFvkQNiISLQVbjAAzw.svg",
+            "Zaidejas": "Nemanja Bezbradica",
+            "Klubas": "Šiauliai-7bet",
+            "Rungtynes": "23",
+            "Suma": "62",
+            "Vidurkis": "2.70"
+      },
+      {
+            "Rankas": "66",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/0oybdHJISUSljroiP0ivvR5TT2sbIzOgi8pYvSuX.svg",
             "Zaidejas": "Kristupas Žemaitis",
             "Klubas": "Lietkabelis",
             "Rungtynes": "33",
@@ -520,7 +594,8 @@
             "Vidurkis": "2.67"
       },
       {
-            "Rankas": "66",
+            "Rankas": "67",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/wHb221TEa59JI2lUBwmhLPMbhER2YKzds33Mx3wz.svg",
             "Zaidejas": "Gintautas Matulis",
             "Klubas": "Uniclub Casino - Juventus",
             "Rungtynes": "24",
@@ -528,23 +603,35 @@
             "Vidurkis": "2.67"
       },
       {
-            "Rankas": "67",
-            "Zaidejas": "Joshua Newkirk",
-            "Klubas": "Dzūkija",
-            "Rungtynes": "32",
-            "Suma": "85",
-            "Vidurkis": "2.66"
-      },
-      {
             "Rankas": "68",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/mcVQz0wp8cvhC7AAdMauEkKiqwcEEJqGdi1k9LZJ.svg",
             "Zaidejas": "Nojus Mineikis",
             "Klubas": "Neptūnas",
-            "Rungtynes": "32",
-            "Suma": "83",
-            "Vidurkis": "2.59"
+            "Rungtynes": "34",
+            "Suma": "90",
+            "Vidurkis": "2.65"
       },
       {
             "Rankas": "69",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/2wB2a1YeslQ98grQ5LVGmdENEgQclgLC3bQMNUfq.svg",
+            "Zaidejas": "Joshua Newkirk",
+            "Klubas": "Dzūkija",
+            "Rungtynes": "33",
+            "Suma": "86",
+            "Vidurkis": "2.61"
+      },
+      {
+            "Rankas": "70",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/9HeCOlpWX1ZZmvNBSKRV9od4akkVpxGhqUJANCwR.svg",
+            "Zaidejas": "Margiris Normantas",
+            "Klubas": "Rytas",
+            "Rungtynes": "33",
+            "Suma": "83",
+            "Vidurkis": "2.52"
+      },
+      {
+            "Rankas": "71",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/DmwVdhfdRypr7xVtsL14GSidaCd2oJJvFSPVls93.svg",
             "Zaidejas": "Erikas Venskus",
             "Klubas": "Labas Gas",
             "Rungtynes": "30",
@@ -552,7 +639,8 @@
             "Vidurkis": "2.50"
       },
       {
-            "Rankas": "70",
+            "Rankas": "72",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/wHb221TEa59JI2lUBwmhLPMbhER2YKzds33Mx3wz.svg",
             "Zaidejas": "Norbertas Giga",
             "Klubas": "Uniclub Casino - Juventus",
             "Rungtynes": "24",
@@ -560,15 +648,8 @@
             "Vidurkis": "2.50"
       },
       {
-            "Rankas": "71",
-            "Zaidejas": "Kenneth Smith",
-            "Klubas": "Rytas",
-            "Rungtynes": "30",
-            "Suma": "75",
-            "Vidurkis": "2.50"
-      },
-      {
-            "Rankas": "72",
+            "Rankas": "73",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/DmwVdhfdRypr7xVtsL14GSidaCd2oJJvFSPVls93.svg",
             "Zaidejas": "Ignas Sargiūnas",
             "Klubas": "Labas Gas",
             "Rungtynes": "30",
@@ -576,15 +657,26 @@
             "Vidurkis": "2.47"
       },
       {
-            "Rankas": "73",
-            "Zaidejas": "Emmanuel Lecomte",
-            "Klubas": "CBet",
-            "Rungtynes": "26",
-            "Suma": "62",
-            "Vidurkis": "2.38"
+            "Rankas": "74",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/9HeCOlpWX1ZZmvNBSKRV9od4akkVpxGhqUJANCwR.svg",
+            "Zaidejas": "Kenneth Smith",
+            "Klubas": "Rytas",
+            "Rungtynes": "32",
+            "Suma": "77",
+            "Vidurkis": "2.41"
       },
       {
-            "Rankas": "74",
+            "Rankas": "75",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/yF7chWgpWeybfyhrsf0T2Pe7oJgBq5G6fLtLf6K0.svg",
+            "Zaidejas": "Emmanuel Lecomte",
+            "Klubas": "CBet",
+            "Rungtynes": "27",
+            "Suma": "62",
+            "Vidurkis": "2.30"
+      },
+      {
+            "Rankas": "76",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/wHb221TEa59JI2lUBwmhLPMbhER2YKzds33Mx3wz.svg",
             "Zaidejas": "Martynas Gecevičius",
             "Klubas": "Uniclub Casino - Juventus",
             "Rungtynes": "24",
@@ -592,7 +684,17 @@
             "Vidurkis": "2.29"
       },
       {
-            "Rankas": "75",
+            "Rankas": "77",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/9HeCOlpWX1ZZmvNBSKRV9od4akkVpxGhqUJANCwR.svg",
+            "Zaidejas": "Lukas Uleckas",
+            "Klubas": "Rytas",
+            "Rungtynes": "34",
+            "Suma": "76",
+            "Vidurkis": "2.24"
+      },
+      {
+            "Rankas": "78",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/BSeCsP7Fkt4Y5Tfbw33wTj2WdgzRIWUbGovi6fw6.svg",
             "Zaidejas": "Dominykas Stenionis",
             "Klubas": "Nevėžis–Optibet",
             "Rungtynes": "15",
@@ -600,39 +702,26 @@
             "Vidurkis": "2.20"
       },
       {
-            "Rankas": "76",
-            "Zaidejas": "Lukas Uleckas",
-            "Klubas": "Rytas",
-            "Rungtynes": "32",
-            "Suma": "70",
-            "Vidurkis": "2.19"
-      },
-      {
-            "Rankas": "77",
+            "Rankas": "79",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/mcVQz0wp8cvhC7AAdMauEkKiqwcEEJqGdi1k9LZJ.svg",
             "Zaidejas": "Martynas Mažeika",
             "Klubas": "Neptūnas",
-            "Rungtynes": "29",
-            "Suma": "63",
-            "Vidurkis": "2.17"
-      },
-      {
-            "Rankas": "78",
-            "Zaidejas": "Lachlan Anderson",
-            "Klubas": "CBet",
-            "Rungtynes": "30",
-            "Suma": "64",
-            "Vidurkis": "2.13"
-      },
-      {
-            "Rankas": "79",
-            "Zaidejas": "Tomas Zdanavičius",
-            "Klubas": "CBet",
-            "Rungtynes": "34",
-            "Suma": "72",
-            "Vidurkis": "2.12"
+            "Rungtynes": "31",
+            "Suma": "65",
+            "Vidurkis": "2.10"
       },
       {
             "Rankas": "80",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/yF7chWgpWeybfyhrsf0T2Pe7oJgBq5G6fLtLf6K0.svg",
+            "Zaidejas": "Lachlan Anderson",
+            "Klubas": "CBet",
+            "Rungtynes": "31",
+            "Suma": "64",
+            "Vidurkis": "2.06"
+      },
+      {
+            "Rankas": "81",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/izBxH8eJawA5WqArRfVm05u9vV7Xyy1MTPzhpAvP.svg",
             "Zaidejas": "Randy Culpepper",
             "Klubas": "Pieno žvaigždės",
             "Rungtynes": "18",
@@ -640,7 +729,17 @@
             "Vidurkis": "2.06"
       },
       {
-            "Rankas": "81",
+            "Rankas": "82",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/yF7chWgpWeybfyhrsf0T2Pe7oJgBq5G6fLtLf6K0.svg",
+            "Zaidejas": "Tomas Zdanavičius",
+            "Klubas": "CBet",
+            "Rungtynes": "36",
+            "Suma": "74",
+            "Vidurkis": "2.06"
+      },
+      {
+            "Rankas": "83",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/BSeCsP7Fkt4Y5Tfbw33wTj2WdgzRIWUbGovi6fw6.svg",
             "Zaidejas": "Daryl Doualla",
             "Klubas": "Nevėžis–Optibet",
             "Rungtynes": "28",
@@ -648,7 +747,8 @@
             "Vidurkis": "1.96"
       },
       {
-            "Rankas": "82",
+            "Rankas": "84",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/2wB2a1YeslQ98grQ5LVGmdENEgQclgLC3bQMNUfq.svg",
             "Zaidejas": "Dylan Frye",
             "Klubas": "Dzūkija",
             "Rungtynes": "32",
@@ -656,7 +756,8 @@
             "Vidurkis": "1.94"
       },
       {
-            "Rankas": "83",
+            "Rankas": "85",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/0oybdHJISUSljroiP0ivvR5TT2sbIzOgi8pYvSuX.svg",
             "Zaidejas": "Nikola Radičevič",
             "Klubas": "Lietkabelis",
             "Rungtynes": "22",
@@ -664,7 +765,8 @@
             "Vidurkis": "1.91"
       },
       {
-            "Rankas": "84",
+            "Rankas": "86",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/BSeCsP7Fkt4Y5Tfbw33wTj2WdgzRIWUbGovi6fw6.svg",
             "Zaidejas": "Marius Valinskas",
             "Klubas": "Nevėžis–Optibet",
             "Rungtynes": "26",
@@ -672,7 +774,8 @@
             "Vidurkis": "1.88"
       },
       {
-            "Rankas": "85",
+            "Rankas": "87",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/0oybdHJISUSljroiP0ivvR5TT2sbIzOgi8pYvSuX.svg",
             "Zaidejas": "Dovydas Giedraitis",
             "Klubas": "Lietkabelis",
             "Rungtynes": "27",
@@ -680,15 +783,17 @@
             "Vidurkis": "1.78"
       },
       {
-            "Rankas": "86",
+            "Rankas": "88",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/9HeCOlpWX1ZZmvNBSKRV9od4akkVpxGhqUJANCwR.svg",
             "Zaidejas": "Vaidas Kariniauskas",
             "Klubas": "Rytas",
-            "Rungtynes": "26",
-            "Suma": "45",
-            "Vidurkis": "1.73"
+            "Rungtynes": "28",
+            "Suma": "48",
+            "Vidurkis": "1.71"
       },
       {
-            "Rankas": "87",
+            "Rankas": "89",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/0oybdHJISUSljroiP0ivvR5TT2sbIzOgi8pYvSuX.svg",
             "Zaidejas": "Grantas Vasiliauskas",
             "Klubas": "Lietkabelis",
             "Rungtynes": "24",
@@ -696,7 +801,8 @@
             "Vidurkis": "1.67"
       },
       {
-            "Rankas": "88",
+            "Rankas": "90",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/wHb221TEa59JI2lUBwmhLPMbhER2YKzds33Mx3wz.svg",
             "Zaidejas": "Jaylin Airington",
             "Klubas": "Uniclub Casino - Juventus",
             "Rungtynes": "27",
@@ -704,23 +810,26 @@
             "Vidurkis": "1.56"
       },
       {
-            "Rankas": "89",
+            "Rankas": "91",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
             "Zaidejas": "Janis Strelnieks",
             "Klubas": "Žalgiris",
-            "Rungtynes": "24",
-            "Suma": "37",
-            "Vidurkis": "1.54"
-      },
-      {
-            "Rankas": "90",
-            "Zaidejas": "Klaidas Metrikis",
-            "Klubas": "Neptūnas",
             "Rungtynes": "26",
             "Suma": "39",
             "Vidurkis": "1.50"
       },
       {
-            "Rankas": "91",
+            "Rankas": "92",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/mcVQz0wp8cvhC7AAdMauEkKiqwcEEJqGdi1k9LZJ.svg",
+            "Zaidejas": "Klaidas Metrikis",
+            "Klubas": "Neptūnas",
+            "Rungtynes": "27",
+            "Suma": "40",
+            "Vidurkis": "1.48"
+      },
+      {
+            "Rankas": "93",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/DmwVdhfdRypr7xVtsL14GSidaCd2oJJvFSPVls93.svg",
             "Zaidejas": "Tahj Jerome Eaddy",
             "Klubas": "Labas Gas",
             "Rungtynes": "17",
@@ -728,75 +837,66 @@
             "Vidurkis": "1.47"
       },
       {
-            "Rankas": "92",
+            "Rankas": "94",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
             "Zaidejas": "Artūras Milaknis",
             "Klubas": "Žalgiris",
-            "Rungtynes": "32",
-            "Suma": "45",
-            "Vidurkis": "1.41"
-      },
-      {
-            "Rankas": "93",
-            "Zaidejas": "Martynas Zigmantavičius",
-            "Klubas": "Dzūkija",
-            "Rungtynes": "32",
-            "Suma": "45",
-            "Vidurkis": "1.41"
-      },
-      {
-            "Rankas": "94",
-            "Zaidejas": "Tai Webster",
-            "Klubas": "Žalgiris",
-            "Rungtynes": "20",
-            "Suma": "28",
-            "Vidurkis": "1.40"
+            "Rungtynes": "34",
+            "Suma": "50",
+            "Vidurkis": "1.47"
       },
       {
             "Rankas": "95",
-            "Zaidejas": "Lukas Lekavičius",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
+            "Zaidejas": "Tai Webster",
             "Klubas": "Žalgiris",
-            "Rungtynes": "28",
-            "Suma": "39",
-            "Vidurkis": "1.39"
+            "Rungtynes": "22",
+            "Suma": "32",
+            "Vidurkis": "1.45"
       },
       {
             "Rankas": "96",
-            "Zaidejas": "Karolis Lukošiūnas",
-            "Klubas": "Žalgiris",
-            "Rungtynes": "32",
-            "Suma": "42",
-            "Vidurkis": "1.31"
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/2wB2a1YeslQ98grQ5LVGmdENEgQclgLC3bQMNUfq.svg",
+            "Zaidejas": "Martynas Zigmantavičius",
+            "Klubas": "Dzūkija",
+            "Rungtynes": "33",
+            "Suma": "46",
+            "Vidurkis": "1.39"
       },
       {
             "Rankas": "97",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
+            "Zaidejas": "Karolis Lukošiūnas",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "34",
+            "Suma": "47",
+            "Vidurkis": "1.38"
+      },
+      {
+            "Rankas": "98",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
+            "Zaidejas": "Lukas Lekavičius",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "30",
+            "Suma": "41",
+            "Vidurkis": "1.37"
+      },
+      {
+            "Rankas": "99",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/yF7chWgpWeybfyhrsf0T2Pe7oJgBq5G6fLtLf6K0.svg",
+            "Zaidejas": "Justinas Ramanauskas",
+            "Klubas": "CBet",
+            "Rungtynes": "31",
+            "Suma": "41",
+            "Vidurkis": "1.32"
+      },
+      {
+            "Rankas": "100",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/izBxH8eJawA5WqArRfVm05u9vV7Xyy1MTPzhpAvP.svg",
             "Zaidejas": "Paulius Danisevičius",
             "Klubas": "Pieno žvaigždės",
             "Rungtynes": "32",
             "Suma": "42",
             "Vidurkis": "1.31"
-      },
-      {
-            "Rankas": "98",
-            "Zaidejas": "Justinas Ramanauskas",
-            "Klubas": "CBet",
-            "Rungtynes": "30",
-            "Suma": "39",
-            "Vidurkis": "1.30"
-      },
-      {
-            "Rankas": "99",
-            "Zaidejas": "Tadas Vaičiūnas",
-            "Klubas": "Lietkabelis",
-            "Rungtynes": "25",
-            "Suma": "29",
-            "Vidurkis": "1.16"
-      },
-      {
-            "Rankas": "100",
-            "Zaidejas": "Mindaugas Girdžiūnas",
-            "Klubas": "Rytas",
-            "Rungtynes": "29",
-            "Suma": "33",
-            "Vidurkis": "1.14"
       }
 ]
