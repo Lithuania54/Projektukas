@@ -42,13 +42,14 @@ session_start();
                           <li><a class="dropdown-item" href="KAMUOLIAI2.php">Atkovoti kamuoliai</a></li>
                           <li><hr class="dropdown-divider"></li>
                           <li><a class="dropdown-item" href="GERIAUSI2.php">Sezono geriausi</a></li>
+                          <li><a class="dropdown-item" href="LENTELE.php">Turnyrinė lentelė</a></li>
                         </ul>
                       </li>
                       <a href="index.php">
                         <img class="rotate" src="images/kamuolys.png" alt="Pradinis logo">
                       </a>
                       <li class="nav-item">
-                        <a class="nav-link" style="color: black; font-size: 20px;" href="PROFILIS.php">PROFILIS</a>
+                        <a class="nav-link" style="color: black; font-size: 20px;" href="REKORDAI.php">REKORDAI</a>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" style="color: black; font-size: 20px;" href="logout.php">ATSIJUNGTI</a>
@@ -81,7 +82,6 @@ session_start();
   				</div>
 				<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close" style="text-align: right"></button>
 			</div>
-
             <h1 class="display-1">LKL žaidėjų statistika</h1>
             <figure class="text-center">
               <blockquote class="blockquote">
@@ -101,7 +101,11 @@ session_start();
                 <div class="card-body">
                   <h5 class="card-title">Vilniaus „Rytas“</h5>
                   <p class="card-text">Profesionalus Lietuvos krepšinio klubas, įsikūręs Vilniuje, Lietuvoje. Klubas buvo įkurtas 1997 metais iš kito klubo „Statyba“ ir tapo vienu sėkmingiausių Lietuvos krepšinio klubų. „Rytas“ iškovojo du Europos taurės titulus, penkis Lietuvos lygos titulus, tris Lietuvos taures ir tris Baltijos šalių čempionatus.</p>
-                  <button href="#" type="button" class="btn btn-dark">Daugiau</button>
+                  <div class="btn-sm">
+                    <a href="LENTELE.php" class="nav-link btn btn-dark" style="color: white;" role="button">
+                      Daugiau
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>
@@ -111,7 +115,11 @@ session_start();
                 <div class="card-body">
                   <h5 class="card-title">Kauno „Žalgiris“</h5>
                   <p class="card-text">Seniausias ir tituluočiausias krepšinio klubas Lietuvoje įsikūręs Kaune. „Žalgiris“ jau 19 metų iš eilės atstovauja Lietuvai Eurolygoje. Žalgiriečiai 1998–1999 m. sezone tapo Eurolygos čempionais. Klubas įkurtas 1944 metais, tai viena iš seniausių Eurolygos komandų.</p>
-                  <button href="#" type="button" class="btn btn-dark">Daugiau</button>
+                  <div class="btn-sm">
+                    <a href="LENTELE.php" class="nav-link btn btn-dark" style="color: white;" role="button">
+                      Daugiau
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>
@@ -120,7 +128,11 @@ session_start();
                 <div class="card-body">
                   <h5 class="card-title">Utenos „Uniclub Casino - Juventus“</h5>
                   <p class="card-text">Profesionalus Utenos miesto vyrų krepšinio klubas, įkurtas 2000 m. Klubas dalyvauja LKL ir BBL pirmenybėse nuo 2009 m. 2021-2022 metų sezone šiuo metu komanda LKL turnyrinėje lentelėje užima 5 vietą. Utenos „Juventus“ nuo 2012 m. turi talismaną Juvį. Juvis yra raudonos spalvos velnias, kuris mūvi mėlynos spalvos sportbačius ir su savimi nešiojasi pasagos formos geltonas šakes, kurios simbolizuoja utenos herbą. </p>
-                  <button href="#" type="button" class="btn btn-dark" id="button3">Daugiau</button>
+                  <div class="btn-sm">
+                    <a href="LENTELE.php" class="nav-link btn btn-dark" style="color: white;" role="button">
+                      Daugiau
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>

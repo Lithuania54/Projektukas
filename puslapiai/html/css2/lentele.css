@@ -96,3 +96,9 @@ img {
 .header2 {
     text-shadow: 2px 2px 5px grey;
 }
+
+.header3 {
+    text-align: left;
+    font-size: 30px;
+    padding-left: 10%;
+}

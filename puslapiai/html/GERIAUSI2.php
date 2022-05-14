@@ -20,7 +20,15 @@ session_start();
     <link rel="stylesheet" href="bootstrap-5.1.3-dist/css/bootstrap.css">
     <link rel="stylesheet" href="css2/stylesindex.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-</head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Koulen&display=swap" rel="stylesheet"><link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Koulen&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+  </head>
 
 <body>
   <div>    
@@ -43,13 +51,14 @@ session_start();
                     <li><a class="dropdown-item" href="KAMUOLIAI2.php">Atkovoti kamuoliai</a></li>
                     <li><hr class="dropdown-divider"></li>
                     <li><a class="dropdown-item" href="GERIAUSI2.php">Sezono geriausi</a></li>
+                    <li><a class="dropdown-item" href="LENTELE2.php">Turnyrinė lentelė</a></li>
                   </ul>
                 </li>
                 <a href="index.php">
                     <img class="rotate" src="images/kamuolys.png" alt="Pradinis logo">
                   </a>
                 <li class="nav-item">
-                  <a class="nav-link" style="color: black; font-size: 20px;" href="PROFILIS.php">PROFILIS</a>
+                  <a class="nav-link" style="color: black; font-size: 20px;" href="REKORDAI.php">REKORDAI</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" style="color: black; font-size: 20px;" href="logout.php">ATSIJUNGTI</a>
@@ -63,7 +72,7 @@ session_start();
   </header>
   </div>
 
-  <header2>
+  <header2 class="header2">
     <h1>Geriausi 2021-2022 sezono žaidėjai</h1>
   </header2>
 
@@ -85,7 +94,7 @@ session_start();
                       <table>
                           <tr>
                             <th class="th1"> ${item.Vidurkis} </th>
-                            <th class="th2"> ${item.Klubas} </th>
+                            <th class="th2; antra"><img src="${item.Nuotrauka2}"></th>
                           </tr>
                       </table>
                     </div>
@@ -96,6 +105,7 @@ session_start();
         }
     </script>
   </main>
+
 
     <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
     <script src="bootstrap-5.1.3-dist/js/bootstrap.js"></script>

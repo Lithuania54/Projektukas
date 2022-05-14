@@ -18,7 +18,7 @@ session_start();
     <title>LKL žaidėjų statistika</title>
     <meta name="description" content="kazka reiks sugalvot">
     <link rel="stylesheet" href="bootstrap-5.1.3-dist/css/bootstrap.css">
-    <link rel="stylesheet" href="css2/statistika.css">
+    <link rel="stylesheet" href="css2/lentele.css">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 </head>
 
@@ -43,13 +43,14 @@ session_start();
                     <li><a class="dropdown-item" href="KAMUOLIAI2.php">Atkovoti kamuoliai</a></li>
                     <li><hr class="dropdown-divider"></li>
                     <li><a class="dropdown-item" href="GERIAUSI2.php">Sezono geriausi</a></li>
+                    <li><a class="dropdown-item" href="LENTELE.php">Turnyrinė lentelė</a></li>
                   </ul>
                 </li>
                 <a href="index.php">
                     <img class="rotate" src="images/kamuolys.png" alt="Pradinis logo">
                   </a>
                 <li class="nav-item">
-                  <a class="nav-link" style="color: black; font-size: 20px;" href="PROFILIS.php">PROFILIS</a>
+                  <a class="nav-link" style="color: black; font-size: 20px;" href="REKORDAI.php">REKORDAI</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" style="color: black; font-size: 20px;" href="logout.php">ATSIJUNGTI</a>
@@ -64,24 +65,59 @@ session_start();
   </div>
 
   <main>
-    <h1>Rezultatyvūs perdavimai</h1>
+    <table class="table table-responsive-sm table-hover caption-top">
+      <caption><h1 class="header2">Rezultatyvūs perdavimai</h1></caption>
+      <thead>
+        <tr style="background-color: #f5f5f4;">
+          <th scope="col"></th>
+          <th scope="col" class="fotke"></th>
+          <th scope="col" style="font-size: 25px;">Žaidėjas</th>
+          <th scope="col" style="text-align: center; font-size: 25px;">Rungtynės</th>
+          <th scope="col" style="text-align: center; font-size: 25px;">Suma</th>
+          <th scope="col" style="text-align: center; font-size: 25px;">Vidurkis</th>
+        </tr>
+      </thead>
+      <tbody class="tbody"></tbody>
+    <script>
+      let http = new XMLHttpRequest();
+        http.open('get', 'scrapinam/PERDAVIMAI.json', true);
+        http.send();
+        http.onload = function(){
+          if(this.readyState == 4 && this.status == 200){
+              let products = JSON.parse(this.responseText);
+              let output = "";
+              for(let item of products){
+                output += `
+                    <tr>
+                      <td style="text-align: center; background-color: #e7e5e4; color:black; font-weight: bold;">
+                          <span>${item.Rankas}</span>
+                      </td>
+                      <td class="fotke">
+                          <a>
+                            <img src="${item.Nuotrauka2}"></img>
+                          </a>
+                          <div>
+                              <td style="font-weight: bold">${item.Zaidejas}</td>
+                          </div>
+                      </td>
+                      <td style="text-align: center; color:black; font-weight: bold;">
+                          <span style="background-color: #f5f5f4; padding: 2%; border-radius: 5px">${item.Rungtynes}</span>
+                      </td>
+                      <td style="text-align: center; color:#15803d; font-weight: bold;">
+                          <span style="background-color: #dcfce7; padding: 3%; border-radius: 5px">${item.Suma}</span>
+                      </td>
+                      <td style="text-align: center; color:#991b1b; font-weight: bold;">
+                          <span style="background-color: #fee2e2; padding: 2%; border-radius: 5px">${item.Vidurkis}</span>
+                      </td>
+                    </tr>
+                `;
+              }
+              document.querySelector(".tbody").innerHTML = output;
+          }
+        }
+    </script>
+    </table>
   </main>
-   
-  <table class="table">
-    <thead>
-      <tr>
-        <th scope="col"></th>
-        <th scope="col">Žaidėjas</th>
-        <th scope="col">Komanda</th>
-        <th scope="col">Rungtynės</th>
-        <th scope="col">Suma</th>
-        <th scope="col">Vidurkis</th>
-      </tr>
-    </thead>
-    <tbody id="PERDAVIMAI">
-      
-    </tbody>
-  </table>
 
   <footer>
     <nav aria-label="Page navigation example">
@@ -93,7 +129,6 @@ session_start();
 
     <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
     <script src="bootstrap-5.1.3-dist/js/bootstrap.js"></script>
-    <script src="scrapinam/PERDAVIMAI.js"></script>
 
 </body>
 </html>
