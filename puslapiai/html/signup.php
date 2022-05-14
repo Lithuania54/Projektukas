@@ -23,7 +23,7 @@ session_start();
 			die;
 		}else
 		{
-			echo "Please enter some valid information!";
+			echo "Ne visi langeliai užpildyti";
 		}
 	}
 ?>

@@ -1,0 +1,35 @@
+[
+      {},
+      {
+            "Nuopelnai": "Daugiausiai pelnyta taškų",
+            "Verte": "111",
+            "Namukomanda": "Rytas",
+            "Sveciukomanda": "Uniclub Casino - Juventus",
+            "Data": "2021-10-02",
+            "Rezultatas": "89:111"
+      },
+      {
+            "Nuopelnai": "Mažiausiai pelnyta taškų",
+            "Verte": "53",
+            "Namukomanda": "Neptūnas",
+            "Sveciukomanda": "Lietkabelis",
+            "Data": "2021-10-06",
+            "Rezultatas": "53:81"
+      },
+      {
+            "Nuopelnai": "Rezultatyviausios rungtynės",
+            "Verte": "208",
+            "Namukomanda": "Pieno žvaigždės",
+            "Sveciukomanda": "Labas Gas",
+            "Data": "2022-03-27",
+            "Rezultatas": "106:102"
+      },
+      {
+            "Nuopelnai": "Nerezultatyviausios rungtynės",
+            "Verte": "127\n127",
+            "Namukomanda": "Lietkabelis\nCBet",
+            "Sveciukomanda": "Nevėžis–Optibet\nŠiauliai-7bet",
+            "Data": "2021-11-07\n2021-12-04",
+            "Rezultatas": "60:67\n58:69"
+      }
+]

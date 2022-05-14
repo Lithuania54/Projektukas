@@ -81,13 +81,13 @@
       },
       {
             "Rankas": "9",
-            "Nuotrauka": "https://lkl.lt/media/players/890x520/59c0ba4e28d959117e002c45a34bb6f9.png",
-            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
-            "Zaidejas": "Lukas Lekavičius",
-            "Klubas": "Žalgiris",
-            "Rungtynes": "30",
-            "Suma": "450",
-            "Vidurkis": "15.00"
+            "Nuotrauka": "https://lkl.lt/media/players/890x520/b7112e549e80247cbdbf1d57419b310c.png",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/0oybdHJISUSljroiP0ivvR5TT2sbIzOgi8pYvSuX.svg",
+            "Zaidejas": "Dorde Gagič",
+            "Klubas": "Lietkabelis",
+            "Rungtynes": "35",
+            "Suma": "531",
+            "Vidurkis": "15.17"
       },
       {
             "Rankas": "10",
@@ -101,16 +101,26 @@
       },
       {
             "Rankas": "11",
-            "Nuotrauka": "https://lkl.lt/media/players/890x520/b7112e549e80247cbdbf1d57419b310c.png",
+            "Nuotrauka": "https://lkl.lt/media/players/890x520/40cc8b89f99ed3a3af3cb053f45a94e0.png",
             "Nuotrauka2": "https://lkl.lt/media/teams/svg/0oybdHJISUSljroiP0ivvR5TT2sbIzOgi8pYvSuX.svg",
-            "Zaidejas": "Dorde Gagič",
+            "Zaidejas": "Gediminas Orelik",
             "Klubas": "Lietkabelis",
-            "Rungtynes": "34",
-            "Suma": "506",
-            "Vidurkis": "14.88"
+            "Rungtynes": "30",
+            "Suma": "444",
+            "Vidurkis": "14.80"
       },
       {
             "Rankas": "12",
+            "Nuotrauka": "https://lkl.lt/media/players/890x520/59c0ba4e28d959117e002c45a34bb6f9.png",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
+            "Zaidejas": "Lukas Lekavičius",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "31",
+            "Suma": "456",
+            "Vidurkis": "14.71"
+      },
+      {
+            "Rankas": "13",
             "Nuotrauka": "https://lkl.lt/media/players/890x520/03470cd95f2896622729612a2947fe01.png",
             "Nuotrauka2": "https://lkl.lt/media/teams/svg/wHb221TEa59JI2lUBwmhLPMbhER2YKzds33Mx3wz.svg",
             "Zaidejas": "Rokas Gustys",
@@ -118,16 +128,6 @@
             "Rungtynes": "30",
             "Suma": "439",
             "Vidurkis": "14.63"
-      },
-      {
-            "Rankas": "13",
-            "Nuotrauka": "https://lkl.lt/media/players/890x520/40cc8b89f99ed3a3af3cb053f45a94e0.png",
-            "Nuotrauka2": "https://lkl.lt/media/teams/svg/0oybdHJISUSljroiP0ivvR5TT2sbIzOgi8pYvSuX.svg",
-            "Zaidejas": "Gediminas Orelik",
-            "Klubas": "Lietkabelis",
-            "Rungtynes": "29",
-            "Suma": "418",
-            "Vidurkis": "14.41"
       },
       {
             "Rankas": "14",
@@ -161,16 +161,6 @@
       },
       {
             "Rankas": "17",
-            "Nuotrauka": "https://lkl.lt/media/players/890x520/8eaa1a6be3284fc63b4c46e6d2f1ccc2.png",
-            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
-            "Zaidejas": "Tyler Cavanaugh",
-            "Klubas": "Žalgiris",
-            "Rungtynes": "31",
-            "Suma": "429",
-            "Vidurkis": "13.84"
-      },
-      {
-            "Rankas": "18",
             "Nuotrauka": "https://lkl.lt/media/players/890x520/b05032a3d55b7b321e50a248c01d24b8.png",
             "Nuotrauka2": "https://lkl.lt/media/teams/svg/mcVQz0wp8cvhC7AAdMauEkKiqwcEEJqGdi1k9LZJ.svg",
             "Zaidejas": "Žygimantas Janavičius",
@@ -180,7 +170,7 @@
             "Vidurkis": "13.63"
       },
       {
-            "Rankas": "19",
+            "Rankas": "18",
             "Nuotrauka": "https://lkl.lt/media/players/890x520/bc7f07dc80a18edecd311e0c734866a9.png",
             "Nuotrauka2": "https://lkl.lt/media/teams/svg/9HeCOlpWX1ZZmvNBSKRV9od4akkVpxGhqUJANCwR.svg",
             "Zaidejas": "Gytis Radzevičius",
@@ -188,6 +178,16 @@
             "Rungtynes": "34",
             "Suma": "463",
             "Vidurkis": "13.62"
+      },
+      {
+            "Rankas": "19",
+            "Nuotrauka": "https://lkl.lt/media/players/890x520/8eaa1a6be3284fc63b4c46e6d2f1ccc2.png",
+            "Nuotrauka2": "https://lkl.lt/media/teams/svg/SNB7bI1lJuaQUhUFlrig0fdgkXxPLIZZ9qPWKr16.svg",
+            "Zaidejas": "Tyler Cavanaugh",
+            "Klubas": "Žalgiris",
+            "Rungtynes": "32",
+            "Suma": "428",
+            "Vidurkis": "13.38"
       },
       {
             "Rankas": "20",
