@@ -37,9 +37,11 @@ session_start();
 			}
 			
 			echo "Neteisingas slapyvardis arba slaptažodis";
-		}else
+		}if($user_data['password'] != $password)
 		{
-			echo "Neteisingas slapyvardis arba slaptažodis";
+			$_SESSION['user_id'] != $user_data['user_id'];
+			header("Location: LOGIN2.html");
+			die;
 		}
 	}
 

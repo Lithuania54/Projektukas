@@ -23,7 +23,8 @@ session_start();
 			die;
 		}else
 		{
-			echo "Ne visi langeliai užpildyti";
+			header("Location: REGISTRACIJA2.html");
+			die;
 		}
 	}
 ?>
