@@ -70,59 +70,40 @@ session_start();
     </header>
     </div>
 
-
         <caption><h1 class="header2">2021-2022 Sezono rungtynių rekordai</h1></caption>
-
-    <main>
-      <table class="table table-responsive-sm table-hover caption-top">
-		<h1 class="header3">Įtemptos rungtynės</h1>
-        <thead>
-          <tr style="background-color: #f5f5f4;">
-            <th scope="col"></th>
-            <th scope="col" style="text-align: center; font-size: 25px;">Vertė</th>
-            <th scope="col" style="text-align: center; font-size: 25px;">Komandos</th>
-          </tr>
-        </thead>
-        <tbody class="tbody"></tbody>
-	   </table>
-	   <table class="table table-responsive-sm table-hover caption-top">
-			<h1 class="header3">Iš eilės</h1>
+    
+	<main>
+		<table class="table table-responsive-sm table-hover caption-top">
+			<h1 class="header3">Taškai per rungtynes</h1>
+				<thead>
+					<tr style="background-color: #f5f5f4;">
+						<th scope="col"></th>
+						<th scope="col" style="text-align: center; font-size: 25px;">Vertė</th>
+						<th scope="col" style="text-align: center; font-size: 25px;">Namų komanda</th>
+						<th scope="col" style="text-align: center; font-size: 25px;">Svečių komanda</th>
+						<th scope="col" style="text-align: center; font-size: 25px;">Data</th>
+						<th scope="col" style="text-align: center; font-size: 25px;">Rezultatas</th>
+					</tr>
+				</thead>
+			<tbody class="tbodytrys"></tbody>
+		</table>
+		<table class="table table-responsive-sm table-hover caption-top">
+			<h1 class="header3">Laimėjimai didžiausiu skirtumu</h1>
 			<thead>
 			<tr style="background-color: #f5f5f4;">
 				<th scope="col"></th>
 				<th scope="col" style="text-align: center; font-size: 25px;">Vertė</th>
-				<th scope="col" style="text-align: center; font-size: 25px;">Komanda</th>
+				<th scope="col" style="text-align: center; font-size: 25px;">Namų komanda</th>
+				<th scope="col" style="text-align: center; font-size: 25px;">Svečių komanda</th>
+				<th scope="col" style="text-align: center; font-size: 25px;">Data</th>
+				<th scope="col" style="text-align: center; font-size: 25px;">Rezultatas</th>
 			</tr>
 			</thead>
-			<tbody class="tbodyy"></tbody>
+		<tbody class="tbodypenki"></tbody>
 		</table>
-      <script>
-        let http = new XMLHttpRequest();
-          http.open('get', 'scrapinam/IR.json', true);
-          http.send();
-          http.onload = function(){
-            if(this.readyState == 4 && this.status == 200){
-                let products = JSON.parse(this.responseText);
-                let output = "";
-                for(let item of products){
-                  output += `
-                      <tr>
-                        <td style="text-align: center; color:black; font-weight: bold;">
-                            <span style="padding: 3%;">${item.Nuopelnai}</span>
-                        </td>
-                        <td style="text-align: center; color:#15803d; font-weight: bold;">
-                            <span style="background-color: #dcfce7; padding: 1%; border-radius: 3px">${item.Verte}</span>
-                        </td>
-                        <td style="text-align: center; color:#991b1b; font-weight: bold;">
-                            <span style="background-color: #fee2e2; padding: 1%; border-radius: 3px">${item.Komanda}</span>
-                        </td>
-                      </tr>
-                  `;
-                }
-                document.querySelector(".tbody").innerHTML = output;
-            }
+		<script>
 			let http = new XMLHttpRequest();
-			http.open('get', 'scrapinam/IS.json', true);
+			http.open('get', 'scrapinam/TPR.json', true);
 			http.send();
 			http.onload = function(){
 				if(this.readyState == 4 && this.status == 200){
@@ -138,17 +119,60 @@ session_start();
 								<span style="background-color: #dcfce7; padding: 1%; border-radius: 5px">${item.Verte}</span>
 							</td>
 							<td style="text-align: center; color:#991b1b; font-weight: bold;">
-								<span style="background-color: #fee2e2; padding: 1%; border-radius: 5px">${item.Komanda}</span>
+								<span style="background-color: #fee2e2; padding: 1%; border-radius: 5px">${item.Namukomanda}</span>
+							</td>
+							<td style="text-align: center; color:#991b1b; font-weight: bold;">
+								<span style="background-color: #fee2e2; padding: 1%; border-radius: 5px">${item.Sveciukomanda}</span>
+							</td>
+							<td style="text-align: center; color:#991b1b; font-weight: bold;">
+								<span style="background-color: #fee2e2; padding: 1%; border-radius: 5px">${item.Data}</span>
+							</td>
+							<td style="text-align: center; color:#991b1b; font-weight: bold;">
+								<span style="background-color: #fee2e2; padding: 1%; border-radius: 5px">${item.Rezultatas}</span>
 							</td>
 						</tr>
 					`;
 					}
-					document.querySelector(".tbodyy").innerHTML = output;
+					document.querySelector(".tbodytrys").innerHTML = output;
+				}
+				let http = new XMLHttpRequest();
+				http.open('get', 'scrapinam/LDS.json', true);
+				http.send();
+				http.onload = function(){
+					if(this.readyState == 4 && this.status == 200){
+						let products = JSON.parse(this.responseText);
+						let output = "";
+						for(let item of products){
+						output += `
+						<tr>
+								<td style="text-align: center; color:black; font-weight: bold;">
+									<span style="padding: 3%; border-radius: 5px">${item.Nuopelnai}</span>
+								</td>
+								<td style="text-align: center; color:#15803d; font-weight: bold;">
+									<span style="background-color: #dcfce7; padding: 1%; border-radius: 5px">${item.Verte}</span>
+								</td>
+								<td style="text-align: center; color:#991b1b; font-weight: bold;">
+									<span style="background-color: #fee2e2; padding: 1%; border-radius: 5px">${item.Namukomanda}</span>
+								</td>
+								<td style="text-align: center; color:#991b1b; font-weight: bold;">
+									<span style="background-color: #fee2e2; padding: 1%; border-radius: 5px">${item.Sveciukomanda}</span>
+								</td>
+								<td style="text-align: center; color:#991b1b; font-weight: bold;">
+									<span style="background-color: #fee2e2; padding: 1%; border-radius: 5px">${item.Data}</span>
+								</td>
+								<td style="text-align: center; color:#991b1b; font-weight: bold;">
+									<span style="background-color: #fee2e2; padding: 1%; border-radius: 5px">${item.Rezultatas}</span>
+								</td>
+							</tr>
+						`;
+						}
+						document.querySelector(".tbodypenki").innerHTML = output;
+					}
 				}
 			}
-        }
 		</script>
-    </main>
+		</table>
+        </main>
 
     <script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
     <script src="bootstrap-5.1.3-dist/js/bootstrap.js"></script>

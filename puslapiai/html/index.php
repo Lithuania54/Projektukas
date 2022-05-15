@@ -23,44 +23,50 @@ session_start();
 
 <body>
     <div>    
-        <header class="nav justify-content-center">
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                <div class="container-fluid">
-                  <a class="nav-link" style="color: black; font-size: 20px; padding-left: 0%; padding-right: 2%;" href="index.php">PRADINIS</a>
-                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                  </button>
-                  <div class="collapse navbar-collapse" id="navbarNav">
-                    <ul class="navbar-nav"> 
-                      <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" style="color: black; font-size: 20px;" href="X.html" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                          STATISTIKA
-                        </a>
-                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                          <li><a class="dropdown-item" href="PERDAVIMAI2.php">Perdavimai</a></li>
-                          <li><a class="dropdown-item" href="TASKAI2.php">Pelnomi taškai</a></li>
-                          <li><a class="dropdown-item" href="KAMUOLIAI2.php">Atkovoti kamuoliai</a></li>
-                          <li><hr class="dropdown-divider"></li>
-                          <li><a class="dropdown-item" href="GERIAUSI2.php">Sezono geriausi</a></li>
-                          <li><a class="dropdown-item" href="LENTELE.php">Turnyrinė lentelė</a></li>
-                        </ul>
-                      </li>
-                      <a href="index.php">
-                        <img class="rotate" src="images/kamuolys.png" alt="Pradinis logo">
-                      </a>
-                      <li class="nav-item">
-                        <a class="nav-link" style="color: black; font-size: 20px;" href="REKORDAI.php">REKORDAI</a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" style="color: black; font-size: 20px;" href="logout.php">ATSIJUNGTI</a>
-                      </li>
-                        <ul class="nav justify-content-end">
-                      </ul>
+      <header class="nav justify-content-center">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container-fluid">
+              <a class="nav-link" style="color: black; font-size: 20px; padding-left: 0%; padding-right: 2%;" href="PRADINISS.html">PRADINIS</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav"> 
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" style="color: black; font-size: 20px;" href="X.html" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      STATISTIKA
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                      <li><a class="dropdown-item" href="PERDAVIMAI2.php">Perdavimai</a></li>
+                      <li><a class="dropdown-item" href="TASKAI2.php">Pelnomi taškai</a></li>
+                      <li><a class="dropdown-item" href="KAMUOLIAI2.php">Atkovoti kamuoliai</a></li>
+                      <li><hr class="dropdown-divider"></li>
+                      <li><a class="dropdown-item" href="GERIAUSI2.php">Sezono geriausi</a></li>
+                      <li><a class="dropdown-item" href="LENTELE.php">Turnyrinė lentelė</a></li>
                     </ul>
-                  </div>
-                </div>
-              </nav>
-        </header>
+                  </li>
+                  <a href="index.php">
+                    <img class="rotate" src="images/kamuolys.png" alt="Pradinis logo">
+                  </a>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" style="color: black; font-size: 20px;" href="X.html" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      REKORDAI
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                      <li><a class="dropdown-item" href="REKORDAI.php">Pergalės</a></li>
+                      <li><a class="dropdown-item" href="REKORDAI2.php">Taškai</a></li>
+                    </ul>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" style="color: black; font-size: 20px;" href="logout.php">ATSIJUNGTI</a>
+                  </li>
+                  <ul class="nav justify-content-end">
+                  </ul>
+                </ul>
+              </div>
+            </div>
+          </nav>
+    </header>
 
 		<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
 			<symbol id="check-circle-fill" fill="currentColor" viewBox="0 0 16 16">

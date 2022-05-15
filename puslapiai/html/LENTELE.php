@@ -49,8 +49,14 @@ session_start();
                   <a href="index.php">
                     <img class="rotate" src="images/kamuolys.png" alt="Pradinis logo">
                   </a>
-                  <li class="nav-item">
-                    <a class="nav-link" style="color: black; font-size: 20px;" href="REKORDAI.php">REKORDAI</a>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" style="color: black; font-size: 20px;" href="X.html" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      REKORDAI
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                      <li><a class="dropdown-item" href="REKORDAI.php">Pergalės</a></li>
+                      <li><a class="dropdown-item" href="REKORDAI2.php">Taškai</a></li>
+                    </ul>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" style="color: black; font-size: 20px;" href="logout.php">ATSIJUNGTI</a>
@@ -63,6 +69,7 @@ session_start();
           </nav>
     </header>
     </div>
+
 
     <main>
       <table class="table table-responsive-sm table-hover caption-top">

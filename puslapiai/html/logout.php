@@ -44,6 +44,7 @@ if(isset($_SESSION['user_id']))
                           <li><a class="dropdown-item" href="KAMUOLIAI.html">Atkovoti kamuoliai</a></li>
                           <li><hr class="dropdown-divider"></li>
                           <li><a class="dropdown-item" href="GERIAUSI.html">Sezono geriausi</a></li>
+                          <li><a class="dropdown-item" href="LENTELE.html">Turnyrinė lentelė</a></li>
                         </ul>
                       </li>
                       <img class="rotate" src="images/kamuolys.png" alt="Pradinis logo">
