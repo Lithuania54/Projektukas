@@ -17,7 +17,7 @@ if(isset($_SESSION['user_id']))
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LKL žaidėjų statistika</title>
+    <title>Krepšinio namai - Lietuva</title>
     <meta name="description" content="kazka reiks sugalvot">
     <link rel="stylesheet" href="bootstrap-5.1.3-dist/css/bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css2/stylesindex.css">
