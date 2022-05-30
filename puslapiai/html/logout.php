@@ -28,7 +28,7 @@ if(isset($_SESSION['user_id']))
         <header class="nav justify-content-center">
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
                 <div class="container-fluid">
-                  <a class="nav-link" style="color: black; font-size: 20px; padding-left: 0%; padding-right: 2%;" href="PRADINISS.html">PRADINIS</a>
+                  <a class="nav-link" style="color: black; font-size: 20px; padding-left: 0%; padding-right: 2%;" href="index.php">PRADINIS</a>
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                   </button>
@@ -93,7 +93,7 @@ if(isset($_SESSION['user_id']))
             </figure>
         </main>
 
-        <footer >      
+        <footer >  
           <div class="row row-cols-md-3">
             <div class="col">
               <div class="card h-100" style="width: 20rem;">
@@ -101,7 +101,11 @@ if(isset($_SESSION['user_id']))
                 <div class="card-body">
                   <h5 class="card-title">Vilniaus „Rytas“</h5>
                   <p class="card-text">Profesionalus Lietuvos krepšinio klubas, įsikūręs Vilniuje, Lietuvoje. Klubas buvo įkurtas 1997 metais iš kito klubo „Statyba“ ir tapo vienu sėkmingiausių Lietuvos krepšinio klubų. „Rytas“ iškovojo du Europos taurės titulus, penkis Lietuvos lygos titulus, tris Lietuvos taures ir tris Baltijos šalių čempionatus.</p>
-                  <button href="#" type="button" class="btn btn-dark">Daugiau</button>
+                  <div class="btn-sm">
+                    <a href="puslapiai/html/LENTELE.php" class="nav-link btn btn-dark" style="color: white;" role="button">
+                      Daugiau
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>
@@ -111,7 +115,11 @@ if(isset($_SESSION['user_id']))
                 <div class="card-body">
                   <h5 class="card-title">Kauno „Žalgiris“</h5>
                   <p class="card-text">Seniausias ir tituluočiausias krepšinio klubas Lietuvoje įsikūręs Kaune. „Žalgiris“ jau 19 metų iš eilės atstovauja Lietuvai Eurolygoje. Žalgiriečiai 1998–1999 m. sezone tapo Eurolygos čempionais. Klubas įkurtas 1944 metais, tai viena iš seniausių Eurolygos komandų.</p>
-                  <button href="#" type="button" class="btn btn-dark">Daugiau</button>
+                  <div class="btn-sm">
+                    <a href="puslapiai/html/LENTELE.php" class="nav-link btn btn-dark" style="color: white;" role="button">
+                      Daugiau
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>
@@ -120,7 +128,11 @@ if(isset($_SESSION['user_id']))
                 <div class="card-body">
                   <h5 class="card-title">Utenos „Uniclub Casino - Juventus“</h5>
                   <p class="card-text">Profesionalus Utenos miesto vyrų krepšinio klubas, įkurtas 2000 m. Klubas dalyvauja LKL ir BBL pirmenybėse nuo 2009 m. 2021-2022 metų sezone šiuo metu komanda LKL turnyrinėje lentelėje užima 5 vietą. Utenos „Juventus“ nuo 2012 m. turi talismaną Juvį. Juvis yra raudonos spalvos velnias, kuris mūvi mėlynos spalvos sportbačius ir su savimi nešiojasi pasagos formos geltonas šakes, kurios simbolizuoja utenos herbą. </p>
-                  <button href="#" type="button" class="btn btn-dark" id="button3">Daugiau</button>
+                  <div class="btn-sm">
+                    <a href="puslapiai/html/LENTELE.php" class="nav-link btn btn-dark" style="color: white;" role="button">
+                      Daugiau
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>
